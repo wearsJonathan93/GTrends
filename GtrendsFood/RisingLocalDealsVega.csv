@@ -1,0 +1,1251 @@
+,date,variable,value
+0,2019-03-31,greggs vegan steak bake,0
+1,2019-04-07,greggs vegan steak bake,0
+2,2019-04-14,greggs vegan steak bake,2
+3,2019-04-21,greggs vegan steak bake,0
+4,2019-04-28,greggs vegan steak bake,1
+5,2019-05-05,greggs vegan steak bake,1
+6,2019-05-12,greggs vegan steak bake,0
+7,2019-05-19,greggs vegan steak bake,0
+8,2019-05-26,greggs vegan steak bake,0
+9,2019-06-02,greggs vegan steak bake,0
+10,2019-06-09,greggs vegan steak bake,1
+11,2019-06-16,greggs vegan steak bake,1
+12,2019-06-23,greggs vegan steak bake,0
+13,2019-06-30,greggs vegan steak bake,0
+14,2019-07-07,greggs vegan steak bake,0
+15,2019-07-14,greggs vegan steak bake,0
+16,2019-07-21,greggs vegan steak bake,0
+17,2019-07-28,greggs vegan steak bake,0
+18,2019-08-04,greggs vegan steak bake,0
+19,2019-08-11,greggs vegan steak bake,0
+20,2019-08-18,greggs vegan steak bake,0
+21,2019-08-25,greggs vegan steak bake,0
+22,2019-09-01,greggs vegan steak bake,1
+23,2019-09-08,greggs vegan steak bake,0
+24,2019-09-15,greggs vegan steak bake,0
+25,2019-09-22,greggs vegan steak bake,0
+26,2019-09-29,greggs vegan steak bake,0
+27,2019-10-06,greggs vegan steak bake,0
+28,2019-10-13,greggs vegan steak bake,0
+29,2019-10-20,greggs vegan steak bake,0
+30,2019-10-27,greggs vegan steak bake,0
+31,2019-11-03,greggs vegan steak bake,0
+32,2019-11-10,greggs vegan steak bake,4
+33,2019-11-17,greggs vegan steak bake,2
+34,2019-11-24,greggs vegan steak bake,0
+35,2019-12-01,greggs vegan steak bake,1
+36,2019-12-08,greggs vegan steak bake,1
+37,2019-12-15,greggs vegan steak bake,1
+38,2019-12-22,greggs vegan steak bake,7
+39,2019-12-29,greggs vegan steak bake,100
+40,2020-01-05,greggs vegan steak bake,59
+41,2020-01-12,greggs vegan steak bake,21
+42,2020-01-19,greggs vegan steak bake,18
+43,2020-01-26,greggs vegan steak bake,8
+44,2020-02-02,greggs vegan steak bake,8
+45,2020-02-09,greggs vegan steak bake,5
+46,2020-02-16,greggs vegan steak bake,4
+47,2020-02-23,greggs vegan steak bake,6
+48,2020-03-01,greggs vegan steak bake,5
+49,2020-03-08,greggs vegan steak bake,6
+50,2019-03-31,vegan kfc burger,1
+51,2019-04-07,vegan kfc burger,1
+52,2019-04-14,vegan kfc burger,0
+53,2019-04-21,vegan kfc burger,1
+54,2019-04-28,vegan kfc burger,1
+55,2019-05-05,vegan kfc burger,1
+56,2019-05-12,vegan kfc burger,1
+57,2019-05-19,vegan kfc burger,0
+58,2019-05-26,vegan kfc burger,1
+59,2019-06-02,vegan kfc burger,0
+60,2019-06-09,vegan kfc burger,10
+61,2019-06-16,vegan kfc burger,27
+62,2019-06-23,vegan kfc burger,9
+63,2019-06-30,vegan kfc burger,6
+64,2019-07-07,vegan kfc burger,7
+65,2019-07-14,vegan kfc burger,4
+66,2019-07-21,vegan kfc burger,4
+67,2019-07-28,vegan kfc burger,4
+68,2019-08-04,vegan kfc burger,3
+69,2019-08-11,vegan kfc burger,3
+70,2019-08-18,vegan kfc burger,4
+71,2019-08-25,vegan kfc burger,5
+72,2019-09-01,vegan kfc burger,2
+73,2019-09-08,vegan kfc burger,2
+74,2019-09-15,vegan kfc burger,2
+75,2019-09-22,vegan kfc burger,2
+76,2019-09-29,vegan kfc burger,2
+77,2019-10-06,vegan kfc burger,1
+78,2019-10-13,vegan kfc burger,1
+79,2019-10-20,vegan kfc burger,1
+80,2019-10-27,vegan kfc burger,1
+81,2019-11-03,vegan kfc burger,1
+82,2019-11-10,vegan kfc burger,1
+83,2019-11-17,vegan kfc burger,2
+84,2019-11-24,vegan kfc burger,1
+85,2019-12-01,vegan kfc burger,1
+86,2019-12-08,vegan kfc burger,1
+87,2019-12-15,vegan kfc burger,1
+88,2019-12-22,vegan kfc burger,3
+89,2019-12-29,vegan kfc burger,100
+90,2020-01-05,vegan kfc burger,79
+91,2020-01-12,vegan kfc burger,35
+92,2020-01-19,vegan kfc burger,35
+93,2020-01-26,vegan kfc burger,37
+94,2020-02-02,vegan kfc burger,18
+95,2020-02-09,vegan kfc burger,14
+96,2020-02-16,vegan kfc burger,10
+97,2020-02-23,vegan kfc burger,8
+98,2020-03-01,vegan kfc burger,7
+99,2020-03-08,vegan kfc burger,6
+100,2019-03-31,vegan steak bake,0
+101,2019-04-07,vegan steak bake,0
+102,2019-04-14,vegan steak bake,1
+103,2019-04-21,vegan steak bake,0
+104,2019-04-28,vegan steak bake,0
+105,2019-05-05,vegan steak bake,0
+106,2019-05-12,vegan steak bake,0
+107,2019-05-19,vegan steak bake,0
+108,2019-05-26,vegan steak bake,0
+109,2019-06-02,vegan steak bake,0
+110,2019-06-09,vegan steak bake,0
+111,2019-06-16,vegan steak bake,0
+112,2019-06-23,vegan steak bake,0
+113,2019-06-30,vegan steak bake,0
+114,2019-07-07,vegan steak bake,0
+115,2019-07-14,vegan steak bake,0
+116,2019-07-21,vegan steak bake,0
+117,2019-07-28,vegan steak bake,0
+118,2019-08-04,vegan steak bake,0
+119,2019-08-11,vegan steak bake,1
+120,2019-08-18,vegan steak bake,1
+121,2019-08-25,vegan steak bake,1
+122,2019-09-01,vegan steak bake,1
+123,2019-09-08,vegan steak bake,0
+124,2019-09-15,vegan steak bake,0
+125,2019-09-22,vegan steak bake,1
+126,2019-09-29,vegan steak bake,0
+127,2019-10-06,vegan steak bake,0
+128,2019-10-13,vegan steak bake,0
+129,2019-10-20,vegan steak bake,0
+130,2019-10-27,vegan steak bake,0
+131,2019-11-03,vegan steak bake,1
+132,2019-11-10,vegan steak bake,2
+133,2019-11-17,vegan steak bake,1
+134,2019-11-24,vegan steak bake,1
+135,2019-12-01,vegan steak bake,1
+136,2019-12-08,vegan steak bake,1
+137,2019-12-15,vegan steak bake,1
+138,2019-12-22,vegan steak bake,7
+139,2019-12-29,vegan steak bake,100
+140,2020-01-05,vegan steak bake,69
+141,2020-01-12,vegan steak bake,25
+142,2020-01-19,vegan steak bake,18
+143,2020-01-26,vegan steak bake,7
+144,2020-02-02,vegan steak bake,9
+145,2020-02-09,vegan steak bake,7
+146,2020-02-16,vegan steak bake,4
+147,2020-02-23,vegan steak bake,4
+148,2020-03-01,vegan steak bake,4
+149,2020-03-08,vegan steak bake,3
+150,2019-03-31,galaxy vegan chocolate,0
+151,2019-04-07,galaxy vegan chocolate,0
+152,2019-04-14,galaxy vegan chocolate,0
+153,2019-04-21,galaxy vegan chocolate,7
+154,2019-04-28,galaxy vegan chocolate,7
+155,2019-05-05,galaxy vegan chocolate,0
+156,2019-05-12,galaxy vegan chocolate,0
+157,2019-05-19,galaxy vegan chocolate,0
+158,2019-05-26,galaxy vegan chocolate,7
+159,2019-06-02,galaxy vegan chocolate,0
+160,2019-06-09,galaxy vegan chocolate,0
+161,2019-06-16,galaxy vegan chocolate,0
+162,2019-06-23,galaxy vegan chocolate,0
+163,2019-06-30,galaxy vegan chocolate,7
+164,2019-07-07,galaxy vegan chocolate,0
+165,2019-07-14,galaxy vegan chocolate,7
+166,2019-07-21,galaxy vegan chocolate,0
+167,2019-07-28,galaxy vegan chocolate,0
+168,2019-08-04,galaxy vegan chocolate,0
+169,2019-08-11,galaxy vegan chocolate,0
+170,2019-08-18,galaxy vegan chocolate,0
+171,2019-08-25,galaxy vegan chocolate,0
+172,2019-09-01,galaxy vegan chocolate,0
+173,2019-09-08,galaxy vegan chocolate,0
+174,2019-09-15,galaxy vegan chocolate,7
+175,2019-09-22,galaxy vegan chocolate,6
+176,2019-09-29,galaxy vegan chocolate,6
+177,2019-10-06,galaxy vegan chocolate,0
+178,2019-10-13,galaxy vegan chocolate,0
+179,2019-10-20,galaxy vegan chocolate,6
+180,2019-10-27,galaxy vegan chocolate,6
+181,2019-11-03,galaxy vegan chocolate,0
+182,2019-11-10,galaxy vegan chocolate,74
+183,2019-11-17,galaxy vegan chocolate,100
+184,2019-11-24,galaxy vegan chocolate,62
+185,2019-12-01,galaxy vegan chocolate,48
+186,2019-12-08,galaxy vegan chocolate,53
+187,2019-12-15,galaxy vegan chocolate,31
+188,2019-12-22,galaxy vegan chocolate,22
+189,2019-12-29,galaxy vegan chocolate,22
+190,2020-01-05,galaxy vegan chocolate,22
+191,2020-01-12,galaxy vegan chocolate,36
+192,2020-01-19,galaxy vegan chocolate,33
+193,2020-01-26,galaxy vegan chocolate,16
+194,2020-02-02,galaxy vegan chocolate,18
+195,2020-02-09,galaxy vegan chocolate,10
+196,2020-02-16,galaxy vegan chocolate,22
+197,2020-02-23,galaxy vegan chocolate,8
+198,2020-03-01,galaxy vegan chocolate,25
+199,2020-03-08,galaxy vegan chocolate,18
+200,2019-03-31,vegan galaxy,0
+201,2019-04-07,vegan galaxy,0
+202,2019-04-14,vegan galaxy,2
+203,2019-04-21,vegan galaxy,5
+204,2019-04-28,vegan galaxy,2
+205,2019-05-05,vegan galaxy,0
+206,2019-05-12,vegan galaxy,0
+207,2019-05-19,vegan galaxy,0
+208,2019-05-26,vegan galaxy,0
+209,2019-06-02,vegan galaxy,2
+210,2019-06-09,vegan galaxy,2
+211,2019-06-16,vegan galaxy,0
+212,2019-06-23,vegan galaxy,0
+213,2019-06-30,vegan galaxy,0
+214,2019-07-07,vegan galaxy,0
+215,2019-07-14,vegan galaxy,2
+216,2019-07-21,vegan galaxy,0
+217,2019-07-28,vegan galaxy,0
+218,2019-08-04,vegan galaxy,2
+219,2019-08-11,vegan galaxy,2
+220,2019-08-18,vegan galaxy,5
+221,2019-08-25,vegan galaxy,2
+222,2019-09-01,vegan galaxy,2
+223,2019-09-08,vegan galaxy,0
+224,2019-09-15,vegan galaxy,3
+225,2019-09-22,vegan galaxy,5
+226,2019-09-29,vegan galaxy,2
+227,2019-10-06,vegan galaxy,0
+228,2019-10-13,vegan galaxy,2
+229,2019-10-20,vegan galaxy,2
+230,2019-10-27,vegan galaxy,2
+231,2019-11-03,vegan galaxy,2
+232,2019-11-10,vegan galaxy,100
+233,2019-11-17,vegan galaxy,75
+234,2019-11-24,vegan galaxy,46
+235,2019-12-01,vegan galaxy,28
+236,2019-12-08,vegan galaxy,24
+237,2019-12-15,vegan galaxy,31
+238,2019-12-22,vegan galaxy,19
+239,2019-12-29,vegan galaxy,20
+240,2020-01-05,vegan galaxy,21
+241,2020-01-12,vegan galaxy,15
+242,2020-01-19,vegan galaxy,16
+243,2020-01-26,vegan galaxy,10
+244,2020-02-02,vegan galaxy,12
+245,2020-02-09,vegan galaxy,8
+246,2020-02-16,vegan galaxy,10
+247,2020-02-23,vegan galaxy,6
+248,2020-03-01,vegan galaxy,10
+249,2020-03-08,vegan galaxy,9
+250,2019-03-31,vegan kfc,1
+251,2019-04-07,vegan kfc,1
+252,2019-04-14,vegan kfc,0
+253,2019-04-21,vegan kfc,1
+254,2019-04-28,vegan kfc,2
+255,2019-05-05,vegan kfc,1
+256,2019-05-12,vegan kfc,1
+257,2019-05-19,vegan kfc,0
+258,2019-05-26,vegan kfc,1
+259,2019-06-02,vegan kfc,0
+260,2019-06-09,vegan kfc,11
+261,2019-06-16,vegan kfc,28
+262,2019-06-23,vegan kfc,7
+263,2019-06-30,vegan kfc,8
+264,2019-07-07,vegan kfc,7
+265,2019-07-14,vegan kfc,4
+266,2019-07-21,vegan kfc,4
+267,2019-07-28,vegan kfc,3
+268,2019-08-04,vegan kfc,4
+269,2019-08-11,vegan kfc,3
+270,2019-08-18,vegan kfc,3
+271,2019-08-25,vegan kfc,10
+272,2019-09-01,vegan kfc,3
+273,2019-09-08,vegan kfc,3
+274,2019-09-15,vegan kfc,2
+275,2019-09-22,vegan kfc,2
+276,2019-09-29,vegan kfc,1
+277,2019-10-06,vegan kfc,2
+278,2019-10-13,vegan kfc,1
+279,2019-10-20,vegan kfc,1
+280,2019-10-27,vegan kfc,2
+281,2019-11-03,vegan kfc,2
+282,2019-11-10,vegan kfc,2
+283,2019-11-17,vegan kfc,3
+284,2019-11-24,vegan kfc,1
+285,2019-12-01,vegan kfc,2
+286,2019-12-08,vegan kfc,3
+287,2019-12-15,vegan kfc,3
+288,2019-12-22,vegan kfc,4
+289,2019-12-29,vegan kfc,100
+290,2020-01-05,vegan kfc,64
+291,2020-01-12,vegan kfc,31
+292,2020-01-19,vegan kfc,24
+293,2020-01-26,vegan kfc,25
+294,2020-02-02,vegan kfc,13
+295,2020-02-09,vegan kfc,7
+296,2020-02-16,vegan kfc,8
+297,2020-02-23,vegan kfc,7
+298,2020-03-01,vegan kfc,6
+299,2020-03-08,vegan kfc,4
+300,2019-03-31,applewood vegan cheese,0
+301,2019-04-07,applewood vegan cheese,0
+302,2019-04-14,applewood vegan cheese,0
+303,2019-04-21,applewood vegan cheese,0
+304,2019-04-28,applewood vegan cheese,0
+305,2019-05-05,applewood vegan cheese,0
+306,2019-05-12,applewood vegan cheese,0
+307,2019-05-19,applewood vegan cheese,0
+308,2019-05-26,applewood vegan cheese,0
+309,2019-06-02,applewood vegan cheese,0
+310,2019-06-09,applewood vegan cheese,0
+311,2019-06-16,applewood vegan cheese,0
+312,2019-06-23,applewood vegan cheese,0
+313,2019-06-30,applewood vegan cheese,0
+314,2019-07-07,applewood vegan cheese,0
+315,2019-07-14,applewood vegan cheese,16
+316,2019-07-21,applewood vegan cheese,0
+317,2019-07-28,applewood vegan cheese,0
+318,2019-08-04,applewood vegan cheese,0
+319,2019-08-11,applewood vegan cheese,16
+320,2019-08-18,applewood vegan cheese,0
+321,2019-08-25,applewood vegan cheese,0
+322,2019-09-01,applewood vegan cheese,0
+323,2019-09-08,applewood vegan cheese,0
+324,2019-09-15,applewood vegan cheese,42
+325,2019-09-22,applewood vegan cheese,74
+326,2019-09-29,applewood vegan cheese,100
+327,2019-10-06,applewood vegan cheese,89
+328,2019-10-13,applewood vegan cheese,69
+329,2019-10-20,applewood vegan cheese,89
+330,2019-10-27,applewood vegan cheese,94
+331,2019-11-03,applewood vegan cheese,43
+332,2019-11-10,applewood vegan cheese,63
+333,2019-11-17,applewood vegan cheese,67
+334,2019-11-24,applewood vegan cheese,37
+335,2019-12-01,applewood vegan cheese,48
+336,2019-12-08,applewood vegan cheese,64
+337,2019-12-15,applewood vegan cheese,51
+338,2019-12-22,applewood vegan cheese,72
+339,2019-12-29,applewood vegan cheese,85
+340,2020-01-05,applewood vegan cheese,75
+341,2020-01-12,applewood vegan cheese,60
+342,2020-01-19,applewood vegan cheese,71
+343,2020-01-26,applewood vegan cheese,51
+344,2020-02-02,applewood vegan cheese,57
+345,2020-02-09,applewood vegan cheese,41
+346,2020-02-16,applewood vegan cheese,73
+347,2020-02-23,applewood vegan cheese,20
+348,2020-03-01,applewood vegan cheese,31
+349,2020-03-08,applewood vegan cheese,25
+350,2019-03-31,kfc vegan chicken,3
+351,2019-04-07,kfc vegan chicken,0
+352,2019-04-14,kfc vegan chicken,3
+353,2019-04-21,kfc vegan chicken,2
+354,2019-04-28,kfc vegan chicken,5
+355,2019-05-05,kfc vegan chicken,7
+356,2019-05-12,kfc vegan chicken,2
+357,2019-05-19,kfc vegan chicken,0
+358,2019-05-26,kfc vegan chicken,4
+359,2019-06-02,kfc vegan chicken,0
+360,2019-06-09,kfc vegan chicken,18
+361,2019-06-16,kfc vegan chicken,20
+362,2019-06-23,kfc vegan chicken,8
+363,2019-06-30,kfc vegan chicken,4
+364,2019-07-07,kfc vegan chicken,6
+365,2019-07-14,kfc vegan chicken,5
+366,2019-07-21,kfc vegan chicken,2
+367,2019-07-28,kfc vegan chicken,2
+368,2019-08-04,kfc vegan chicken,2
+369,2019-08-11,kfc vegan chicken,2
+370,2019-08-18,kfc vegan chicken,2
+371,2019-08-25,kfc vegan chicken,15
+372,2019-09-01,kfc vegan chicken,5
+373,2019-09-08,kfc vegan chicken,4
+374,2019-09-15,kfc vegan chicken,4
+375,2019-09-22,kfc vegan chicken,2
+376,2019-09-29,kfc vegan chicken,3
+377,2019-10-06,kfc vegan chicken,2
+378,2019-10-13,kfc vegan chicken,2
+379,2019-10-20,kfc vegan chicken,2
+380,2019-10-27,kfc vegan chicken,2
+381,2019-11-03,kfc vegan chicken,2
+382,2019-11-10,kfc vegan chicken,3
+383,2019-11-17,kfc vegan chicken,3
+384,2019-11-24,kfc vegan chicken,2
+385,2019-12-01,kfc vegan chicken,2
+386,2019-12-08,kfc vegan chicken,2
+387,2019-12-15,kfc vegan chicken,4
+388,2019-12-22,kfc vegan chicken,3
+389,2019-12-29,kfc vegan chicken,100
+390,2020-01-05,kfc vegan chicken,41
+391,2020-01-12,kfc vegan chicken,9
+392,2020-01-19,kfc vegan chicken,9
+393,2020-01-26,kfc vegan chicken,7
+394,2020-02-02,kfc vegan chicken,3
+395,2020-02-09,kfc vegan chicken,4
+396,2020-02-16,kfc vegan chicken,3
+397,2020-02-23,kfc vegan chicken,6
+398,2020-03-01,kfc vegan chicken,4
+399,2020-03-08,kfc vegan chicken,3
+400,2019-03-31,vegan all sorts,0
+401,2019-04-07,vegan all sorts,0
+402,2019-04-14,vegan all sorts,0
+403,2019-04-21,vegan all sorts,0
+404,2019-04-28,vegan all sorts,28
+405,2019-05-05,vegan all sorts,0
+406,2019-05-12,vegan all sorts,66
+407,2019-05-19,vegan all sorts,99
+408,2019-05-26,vegan all sorts,37
+409,2019-06-02,vegan all sorts,80
+410,2019-06-09,vegan all sorts,41
+411,2019-06-16,vegan all sorts,28
+412,2019-06-23,vegan all sorts,56
+413,2019-06-30,vegan all sorts,56
+414,2019-07-07,vegan all sorts,56
+415,2019-07-14,vegan all sorts,46
+416,2019-07-21,vegan all sorts,29
+417,2019-07-28,vegan all sorts,100
+418,2019-08-04,vegan all sorts,46
+419,2019-08-11,vegan all sorts,97
+420,2019-08-18,vegan all sorts,71
+421,2019-08-25,vegan all sorts,42
+422,2019-09-01,vegan all sorts,63
+423,2019-09-08,vegan all sorts,0
+424,2019-09-15,vegan all sorts,27
+425,2019-09-22,vegan all sorts,26
+426,2019-09-29,vegan all sorts,26
+427,2019-10-06,vegan all sorts,26
+428,2019-10-13,vegan all sorts,65
+429,2019-10-20,vegan all sorts,52
+430,2019-10-27,vegan all sorts,39
+431,2019-11-03,vegan all sorts,25
+432,2019-11-10,vegan all sorts,50
+433,2019-11-17,vegan all sorts,0
+434,2019-11-24,vegan all sorts,48
+435,2019-12-01,vegan all sorts,49
+436,2019-12-08,vegan all sorts,59
+437,2019-12-15,vegan all sorts,26
+438,2019-12-22,vegan all sorts,57
+439,2019-12-29,vegan all sorts,26
+440,2020-01-05,vegan all sorts,24
+441,2020-01-12,vegan all sorts,35
+442,2020-01-19,vegan all sorts,74
+443,2020-01-26,vegan all sorts,24
+444,2020-02-02,vegan all sorts,25
+445,2020-02-09,vegan all sorts,48
+446,2020-02-16,vegan all sorts,36
+447,2020-02-23,vegan all sorts,23
+448,2020-03-01,vegan all sorts,24
+449,2020-03-08,vegan all sorts,26
+450,2019-03-31,richmond vegan sausages,0
+451,2019-04-07,richmond vegan sausages,0
+452,2019-04-14,richmond vegan sausages,0
+453,2019-04-21,richmond vegan sausages,0
+454,2019-04-28,richmond vegan sausages,0
+455,2019-05-05,richmond vegan sausages,0
+456,2019-05-12,richmond vegan sausages,14
+457,2019-05-19,richmond vegan sausages,0
+458,2019-05-26,richmond vegan sausages,0
+459,2019-06-02,richmond vegan sausages,0
+460,2019-06-09,richmond vegan sausages,0
+461,2019-06-16,richmond vegan sausages,0
+462,2019-06-23,richmond vegan sausages,0
+463,2019-06-30,richmond vegan sausages,0
+464,2019-07-07,richmond vegan sausages,0
+465,2019-07-14,richmond vegan sausages,0
+466,2019-07-21,richmond vegan sausages,0
+467,2019-07-28,richmond vegan sausages,0
+468,2019-08-04,richmond vegan sausages,0
+469,2019-08-11,richmond vegan sausages,0
+470,2019-08-18,richmond vegan sausages,0
+471,2019-08-25,richmond vegan sausages,0
+472,2019-09-01,richmond vegan sausages,0
+473,2019-09-08,richmond vegan sausages,0
+474,2019-09-15,richmond vegan sausages,14
+475,2019-09-22,richmond vegan sausages,34
+476,2019-09-29,richmond vegan sausages,26
+477,2019-10-06,richmond vegan sausages,32
+478,2019-10-13,richmond vegan sausages,22
+479,2019-10-20,richmond vegan sausages,32
+480,2019-10-27,richmond vegan sausages,30
+481,2019-11-03,richmond vegan sausages,41
+482,2019-11-10,richmond vegan sausages,55
+483,2019-11-17,richmond vegan sausages,71
+484,2019-11-24,richmond vegan sausages,24
+485,2019-12-01,richmond vegan sausages,50
+486,2019-12-08,richmond vegan sausages,38
+487,2019-12-15,richmond vegan sausages,58
+488,2019-12-22,richmond vegan sausages,72
+489,2019-12-29,richmond vegan sausages,100
+490,2020-01-05,richmond vegan sausages,57
+491,2020-01-12,richmond vegan sausages,87
+492,2020-01-19,richmond vegan sausages,55
+493,2020-01-26,richmond vegan sausages,57
+494,2020-02-02,richmond vegan sausages,45
+495,2020-02-09,richmond vegan sausages,44
+496,2020-02-16,richmond vegan sausages,56
+497,2020-02-23,richmond vegan sausages,31
+498,2020-03-01,richmond vegan sausages,59
+499,2020-03-08,richmond vegan sausages,31
+500,2019-03-31,vegan allsorts,0
+501,2019-04-07,vegan allsorts,0
+502,2019-04-14,vegan allsorts,0
+503,2019-04-21,vegan allsorts,0
+504,2019-04-28,vegan allsorts,21
+505,2019-05-05,vegan allsorts,28
+506,2019-05-12,vegan allsorts,36
+507,2019-05-19,vegan allsorts,21
+508,2019-05-26,vegan allsorts,41
+509,2019-06-02,vegan allsorts,20
+510,2019-06-09,vegan allsorts,20
+511,2019-06-16,vegan allsorts,21
+512,2019-06-23,vegan allsorts,21
+513,2019-06-30,vegan allsorts,63
+514,2019-07-07,vegan allsorts,28
+515,2019-07-14,vegan allsorts,21
+516,2019-07-21,vegan allsorts,0
+517,2019-07-28,vegan allsorts,21
+518,2019-08-04,vegan allsorts,21
+519,2019-08-11,vegan allsorts,31
+520,2019-08-18,vegan allsorts,21
+521,2019-08-25,vegan allsorts,86
+522,2019-09-01,vegan allsorts,21
+523,2019-09-08,vegan allsorts,41
+524,2019-09-15,vegan allsorts,82
+525,2019-09-22,vegan allsorts,32
+526,2019-09-29,vegan allsorts,49
+527,2019-10-06,vegan allsorts,58
+528,2019-10-13,vegan allsorts,68
+529,2019-10-20,vegan allsorts,58
+530,2019-10-27,vegan allsorts,52
+531,2019-11-03,vegan allsorts,100
+532,2019-11-10,vegan allsorts,63
+533,2019-11-17,vegan allsorts,31
+534,2019-11-24,vegan allsorts,73
+535,2019-12-01,vegan allsorts,66
+536,2019-12-08,vegan allsorts,51
+537,2019-12-15,vegan allsorts,40
+538,2019-12-22,vegan allsorts,65
+539,2019-12-29,vegan allsorts,46
+540,2020-01-05,vegan allsorts,27
+541,2020-01-12,vegan allsorts,36
+542,2020-01-19,vegan allsorts,46
+543,2020-01-26,vegan allsorts,37
+544,2020-02-02,vegan allsorts,56
+545,2020-02-09,vegan allsorts,42
+546,2020-02-16,vegan allsorts,24
+547,2020-02-23,vegan allsorts,44
+548,2020-03-01,vegan allsorts,35
+549,2020-03-08,vegan allsorts,70
+550,2019-03-31,vegan burger king,17
+551,2019-04-07,vegan burger king,18
+552,2019-04-14,vegan burger king,15
+553,2019-04-21,vegan burger king,8
+554,2019-04-28,vegan burger king,9
+555,2019-05-05,vegan burger king,6
+556,2019-05-12,vegan burger king,6
+557,2019-05-19,vegan burger king,5
+558,2019-05-26,vegan burger king,4
+559,2019-06-02,vegan burger king,7
+560,2019-06-09,vegan burger king,13
+561,2019-06-16,vegan burger king,10
+562,2019-06-23,vegan burger king,8
+563,2019-06-30,vegan burger king,9
+564,2019-07-07,vegan burger king,13
+565,2019-07-14,vegan burger king,9
+566,2019-07-21,vegan burger king,5
+567,2019-07-28,vegan burger king,10
+568,2019-08-04,vegan burger king,10
+569,2019-08-11,vegan burger king,12
+570,2019-08-18,vegan burger king,9
+571,2019-08-25,vegan burger king,10
+572,2019-09-01,vegan burger king,5
+573,2019-09-08,vegan burger king,4
+574,2019-09-15,vegan burger king,8
+575,2019-09-22,vegan burger king,10
+576,2019-09-29,vegan burger king,9
+577,2019-10-06,vegan burger king,6
+578,2019-10-13,vegan burger king,9
+579,2019-10-20,vegan burger king,9
+580,2019-10-27,vegan burger king,6
+581,2019-11-03,vegan burger king,8
+582,2019-11-10,vegan burger king,9
+583,2019-11-17,vegan burger king,15
+584,2019-11-24,vegan burger king,8
+585,2019-12-01,vegan burger king,7
+586,2019-12-08,vegan burger king,7
+587,2019-12-15,vegan burger king,6
+588,2019-12-22,vegan burger king,10
+589,2019-12-29,vegan burger king,25
+590,2020-01-05,vegan burger king,100
+591,2020-01-12,vegan burger king,41
+592,2020-01-19,vegan burger king,36
+593,2020-01-26,vegan burger king,29
+594,2020-02-02,vegan burger king,17
+595,2020-02-09,vegan burger king,16
+596,2020-02-16,vegan burger king,18
+597,2020-02-23,vegan burger king,10
+598,2020-03-01,vegan burger king,12
+599,2020-03-08,vegan burger king,6
+600,2019-03-31,vegan subway,13
+601,2019-04-07,vegan subway,8
+602,2019-04-14,vegan subway,44
+603,2019-04-21,vegan subway,44
+604,2019-04-28,vegan subway,36
+605,2019-05-05,vegan subway,30
+606,2019-05-12,vegan subway,28
+607,2019-05-19,vegan subway,17
+608,2019-05-26,vegan subway,14
+609,2019-06-02,vegan subway,12
+610,2019-06-09,vegan subway,18
+611,2019-06-16,vegan subway,22
+612,2019-06-23,vegan subway,17
+613,2019-06-30,vegan subway,15
+614,2019-07-07,vegan subway,19
+615,2019-07-14,vegan subway,11
+616,2019-07-21,vegan subway,18
+617,2019-07-28,vegan subway,21
+618,2019-08-04,vegan subway,23
+619,2019-08-11,vegan subway,15
+620,2019-08-18,vegan subway,16
+621,2019-08-25,vegan subway,11
+622,2019-09-01,vegan subway,13
+623,2019-09-08,vegan subway,15
+624,2019-09-15,vegan subway,10
+625,2019-09-22,vegan subway,11
+626,2019-09-29,vegan subway,8
+627,2019-10-06,vegan subway,9
+628,2019-10-13,vegan subway,12
+629,2019-10-20,vegan subway,7
+630,2019-10-27,vegan subway,39
+631,2019-11-03,vegan subway,19
+632,2019-11-10,vegan subway,17
+633,2019-11-17,vegan subway,16
+634,2019-11-24,vegan subway,14
+635,2019-12-01,vegan subway,10
+636,2019-12-08,vegan subway,10
+637,2019-12-15,vegan subway,13
+638,2019-12-22,vegan subway,6
+639,2019-12-29,vegan subway,69
+640,2020-01-05,vegan subway,100
+641,2020-01-12,vegan subway,67
+642,2020-01-19,vegan subway,59
+643,2020-01-26,vegan subway,41
+644,2020-02-02,vegan subway,29
+645,2020-02-09,vegan subway,19
+646,2020-02-16,vegan subway,19
+647,2020-02-23,vegan subway,24
+648,2020-03-01,vegan subway,18
+649,2020-03-08,vegan subway,13
+650,2019-03-31,is corona vegan,36
+651,2019-04-07,is corona vegan,36
+652,2019-04-14,is corona vegan,0
+653,2019-04-21,is corona vegan,37
+654,2019-04-28,is corona vegan,35
+655,2019-05-05,is corona vegan,36
+656,2019-05-12,is corona vegan,0
+657,2019-05-19,is corona vegan,0
+658,2019-05-26,is corona vegan,59
+659,2019-06-02,is corona vegan,34
+660,2019-06-09,is corona vegan,0
+661,2019-06-16,is corona vegan,0
+662,2019-06-23,is corona vegan,71
+663,2019-06-30,is corona vegan,35
+664,2019-07-07,is corona vegan,0
+665,2019-07-14,is corona vegan,0
+666,2019-07-21,is corona vegan,36
+667,2019-07-28,is corona vegan,36
+668,2019-08-04,is corona vegan,0
+669,2019-08-11,is corona vegan,35
+670,2019-08-18,is corona vegan,36
+671,2019-08-25,is corona vegan,36
+672,2019-09-01,is corona vegan,34
+673,2019-09-08,is corona vegan,0
+674,2019-09-15,is corona vegan,35
+675,2019-09-22,is corona vegan,66
+676,2019-09-29,is corona vegan,50
+677,2019-10-06,is corona vegan,0
+678,2019-10-13,is corona vegan,0
+679,2019-10-20,is corona vegan,33
+680,2019-10-27,is corona vegan,33
+681,2019-11-03,is corona vegan,31
+682,2019-11-10,is corona vegan,32
+683,2019-11-17,is corona vegan,32
+684,2019-11-24,is corona vegan,31
+685,2019-12-01,is corona vegan,48
+686,2019-12-08,is corona vegan,32
+687,2019-12-15,is corona vegan,34
+688,2019-12-22,is corona vegan,61
+689,2019-12-29,is corona vegan,100
+690,2020-01-05,is corona vegan,77
+691,2020-01-12,is corona vegan,92
+692,2020-01-19,is corona vegan,31
+693,2020-01-26,is corona vegan,31
+694,2020-02-02,is corona vegan,32
+695,2020-02-09,is corona vegan,30
+696,2020-02-16,is corona vegan,61
+697,2020-02-23,is corona vegan,59
+698,2020-03-01,is corona vegan,45
+699,2020-03-08,is corona vegan,67
+700,2019-03-31,vegan easter egg,36
+701,2019-04-07,vegan easter egg,47
+702,2019-04-14,vegan easter egg,100
+703,2019-04-21,vegan easter egg,19
+704,2019-04-28,vegan easter egg,6
+705,2019-05-05,vegan easter egg,0
+706,2019-05-12,vegan easter egg,3
+707,2019-05-19,vegan easter egg,0
+708,2019-05-26,vegan easter egg,0
+709,2019-06-02,vegan easter egg,0
+710,2019-06-09,vegan easter egg,0
+711,2019-06-16,vegan easter egg,0
+712,2019-06-23,vegan easter egg,0
+713,2019-06-30,vegan easter egg,0
+714,2019-07-07,vegan easter egg,0
+715,2019-07-14,vegan easter egg,0
+716,2019-07-21,vegan easter egg,0
+717,2019-07-28,vegan easter egg,0
+718,2019-08-04,vegan easter egg,0
+719,2019-08-11,vegan easter egg,0
+720,2019-08-18,vegan easter egg,0
+721,2019-08-25,vegan easter egg,0
+722,2019-09-01,vegan easter egg,0
+723,2019-09-08,vegan easter egg,0
+724,2019-09-15,vegan easter egg,0
+725,2019-09-22,vegan easter egg,0
+726,2019-09-29,vegan easter egg,0
+727,2019-10-06,vegan easter egg,0
+728,2019-10-13,vegan easter egg,0
+729,2019-10-20,vegan easter egg,0
+730,2019-10-27,vegan easter egg,0
+731,2019-11-03,vegan easter egg,0
+732,2019-11-10,vegan easter egg,0
+733,2019-11-17,vegan easter egg,3
+734,2019-11-24,vegan easter egg,2
+735,2019-12-01,vegan easter egg,0
+736,2019-12-08,vegan easter egg,0
+737,2019-12-15,vegan easter egg,0
+738,2019-12-22,vegan easter egg,0
+739,2019-12-29,vegan easter egg,3
+740,2020-01-05,vegan easter egg,0
+741,2020-01-12,vegan easter egg,5
+742,2020-01-19,vegan easter egg,3
+743,2020-01-26,vegan easter egg,2
+744,2020-02-02,vegan easter egg,4
+745,2020-02-09,vegan easter egg,5
+746,2020-02-16,vegan easter egg,12
+747,2020-02-23,vegan easter egg,11
+748,2020-03-01,vegan easter egg,8
+749,2020-03-08,vegan easter egg,15
+750,2019-03-31,high protein vegan meals,17
+751,2019-04-07,high protein vegan meals,26
+752,2019-04-14,high protein vegan meals,18
+753,2019-04-21,high protein vegan meals,41
+754,2019-04-28,high protein vegan meals,34
+755,2019-05-05,high protein vegan meals,23
+756,2019-05-12,high protein vegan meals,17
+757,2019-05-19,high protein vegan meals,17
+758,2019-05-26,high protein vegan meals,34
+759,2019-06-02,high protein vegan meals,22
+760,2019-06-09,high protein vegan meals,17
+761,2019-06-16,high protein vegan meals,29
+762,2019-06-23,high protein vegan meals,34
+763,2019-06-30,high protein vegan meals,17
+764,2019-07-07,high protein vegan meals,17
+765,2019-07-14,high protein vegan meals,17
+766,2019-07-21,high protein vegan meals,26
+767,2019-07-28,high protein vegan meals,26
+768,2019-08-04,high protein vegan meals,34
+769,2019-08-11,high protein vegan meals,17
+770,2019-08-18,high protein vegan meals,17
+771,2019-08-25,high protein vegan meals,17
+772,2019-09-01,high protein vegan meals,28
+773,2019-09-08,high protein vegan meals,16
+774,2019-09-15,high protein vegan meals,25
+775,2019-09-22,high protein vegan meals,21
+776,2019-09-29,high protein vegan meals,16
+777,2019-10-06,high protein vegan meals,16
+778,2019-10-13,high protein vegan meals,32
+779,2019-10-20,high protein vegan meals,69
+780,2019-10-27,high protein vegan meals,100
+781,2019-11-03,high protein vegan meals,56
+782,2019-11-10,high protein vegan meals,41
+783,2019-11-17,high protein vegan meals,56
+784,2019-11-24,high protein vegan meals,54
+785,2019-12-01,high protein vegan meals,31
+786,2019-12-08,high protein vegan meals,31
+787,2019-12-15,high protein vegan meals,16
+788,2019-12-22,high protein vegan meals,35
+789,2019-12-29,high protein vegan meals,59
+790,2020-01-05,high protein vegan meals,79
+791,2020-01-12,high protein vegan meals,83
+792,2020-01-19,high protein vegan meals,61
+793,2020-01-26,high protein vegan meals,55
+794,2020-02-02,high protein vegan meals,35
+795,2020-02-09,high protein vegan meals,34
+796,2020-02-16,high protein vegan meals,29
+797,2020-02-23,high protein vegan meals,38
+798,2020-03-01,high protein vegan meals,29
+799,2020-03-08,high protein vegan meals,38
+800,2019-03-31,greggs vegan sausage roll calories,48
+801,2019-04-07,greggs vegan sausage roll calories,26
+802,2019-04-14,greggs vegan sausage roll calories,39
+803,2019-04-21,greggs vegan sausage roll calories,26
+804,2019-04-28,greggs vegan sausage roll calories,61
+805,2019-05-05,greggs vegan sausage roll calories,33
+806,2019-05-12,greggs vegan sausage roll calories,45
+807,2019-05-19,greggs vegan sausage roll calories,41
+808,2019-05-26,greggs vegan sausage roll calories,47
+809,2019-06-02,greggs vegan sausage roll calories,24
+810,2019-06-09,greggs vegan sausage roll calories,28
+811,2019-06-16,greggs vegan sausage roll calories,40
+812,2019-06-23,greggs vegan sausage roll calories,36
+813,2019-06-30,greggs vegan sausage roll calories,33
+814,2019-07-07,greggs vegan sausage roll calories,33
+815,2019-07-14,greggs vegan sausage roll calories,33
+816,2019-07-21,greggs vegan sausage roll calories,39
+817,2019-07-28,greggs vegan sausage roll calories,41
+818,2019-08-04,greggs vegan sausage roll calories,32
+819,2019-08-11,greggs vegan sausage roll calories,32
+820,2019-08-18,greggs vegan sausage roll calories,22
+821,2019-08-25,greggs vegan sausage roll calories,37
+822,2019-09-01,greggs vegan sausage roll calories,35
+823,2019-09-08,greggs vegan sausage roll calories,39
+824,2019-09-15,greggs vegan sausage roll calories,46
+825,2019-09-22,greggs vegan sausage roll calories,24
+826,2019-09-29,greggs vegan sausage roll calories,24
+827,2019-10-06,greggs vegan sausage roll calories,20
+828,2019-10-13,greggs vegan sausage roll calories,30
+829,2019-10-20,greggs vegan sausage roll calories,25
+830,2019-10-27,greggs vegan sausage roll calories,35
+831,2019-11-03,greggs vegan sausage roll calories,23
+832,2019-11-10,greggs vegan sausage roll calories,23
+833,2019-11-17,greggs vegan sausage roll calories,20
+834,2019-11-24,greggs vegan sausage roll calories,33
+835,2019-12-01,greggs vegan sausage roll calories,29
+836,2019-12-08,greggs vegan sausage roll calories,17
+837,2019-12-15,greggs vegan sausage roll calories,35
+838,2019-12-22,greggs vegan sausage roll calories,23
+839,2019-12-29,greggs vegan sausage roll calories,61
+840,2020-01-05,greggs vegan sausage roll calories,79
+841,2020-01-12,greggs vegan sausage roll calories,100
+842,2020-01-19,greggs vegan sausage roll calories,81
+843,2020-01-26,greggs vegan sausage roll calories,64
+844,2020-02-02,greggs vegan sausage roll calories,39
+845,2020-02-09,greggs vegan sausage roll calories,37
+846,2020-02-16,greggs vegan sausage roll calories,34
+847,2020-02-23,greggs vegan sausage roll calories,40
+848,2020-03-01,greggs vegan sausage roll calories,40
+849,2020-03-08,greggs vegan sausage roll calories,41
+850,2019-03-31,vegan lasagne recipe,22
+851,2019-04-07,vegan lasagne recipe,22
+852,2019-04-14,vegan lasagne recipe,0
+853,2019-04-21,vegan lasagne recipe,44
+854,2019-04-28,vegan lasagne recipe,43
+855,2019-05-05,vegan lasagne recipe,64
+856,2019-05-12,vegan lasagne recipe,22
+857,2019-05-19,vegan lasagne recipe,22
+858,2019-05-26,vegan lasagne recipe,32
+859,2019-06-02,vegan lasagne recipe,21
+860,2019-06-09,vegan lasagne recipe,21
+861,2019-06-16,vegan lasagne recipe,33
+862,2019-06-23,vegan lasagne recipe,22
+863,2019-06-30,vegan lasagne recipe,33
+864,2019-07-07,vegan lasagne recipe,21
+865,2019-07-14,vegan lasagne recipe,36
+866,2019-07-21,vegan lasagne recipe,22
+867,2019-07-28,vegan lasagne recipe,22
+868,2019-08-04,vegan lasagne recipe,43
+869,2019-08-11,vegan lasagne recipe,43
+870,2019-08-18,vegan lasagne recipe,37
+871,2019-08-25,vegan lasagne recipe,72
+872,2019-09-01,vegan lasagne recipe,21
+873,2019-09-08,vegan lasagne recipe,63
+874,2019-09-15,vegan lasagne recipe,53
+875,2019-09-22,vegan lasagne recipe,53
+876,2019-09-29,vegan lasagne recipe,54
+877,2019-10-06,vegan lasagne recipe,40
+878,2019-10-13,vegan lasagne recipe,33
+879,2019-10-20,vegan lasagne recipe,20
+880,2019-10-27,vegan lasagne recipe,30
+881,2019-11-03,vegan lasagne recipe,45
+882,2019-11-10,vegan lasagne recipe,59
+883,2019-11-17,vegan lasagne recipe,65
+884,2019-11-24,vegan lasagne recipe,37
+885,2019-12-01,vegan lasagne recipe,59
+886,2019-12-08,vegan lasagne recipe,20
+887,2019-12-15,vegan lasagne recipe,31
+888,2019-12-22,vegan lasagne recipe,45
+889,2019-12-29,vegan lasagne recipe,70
+890,2020-01-05,vegan lasagne recipe,100
+891,2020-01-12,vegan lasagne recipe,49
+892,2020-01-19,vegan lasagne recipe,77
+893,2020-01-26,vegan lasagne recipe,82
+894,2020-02-02,vegan lasagne recipe,76
+895,2020-02-09,vegan lasagne recipe,74
+896,2020-02-16,vegan lasagne recipe,74
+897,2020-02-23,vegan lasagne recipe,60
+898,2020-03-01,vegan lasagne recipe,30
+899,2020-03-08,vegan lasagne recipe,41
+900,2019-03-31,aldi vegan range,18
+901,2019-04-07,aldi vegan range,0
+902,2019-04-14,aldi vegan range,19
+903,2019-04-21,aldi vegan range,18
+904,2019-04-28,aldi vegan range,18
+905,2019-05-05,aldi vegan range,18
+906,2019-05-12,aldi vegan range,18
+907,2019-05-19,aldi vegan range,18
+908,2019-05-26,aldi vegan range,0
+909,2019-06-02,aldi vegan range,17
+910,2019-06-09,aldi vegan range,0
+911,2019-06-16,aldi vegan range,18
+912,2019-06-23,aldi vegan range,0
+913,2019-06-30,aldi vegan range,18
+914,2019-07-07,aldi vegan range,0
+915,2019-07-14,aldi vegan range,0
+916,2019-07-21,aldi vegan range,0
+917,2019-07-28,aldi vegan range,0
+918,2019-08-04,aldi vegan range,0
+919,2019-08-11,aldi vegan range,18
+920,2019-08-18,aldi vegan range,18
+921,2019-08-25,aldi vegan range,0
+922,2019-09-01,aldi vegan range,17
+923,2019-09-08,aldi vegan range,17
+924,2019-09-15,aldi vegan range,35
+925,2019-09-22,aldi vegan range,16
+926,2019-09-29,aldi vegan range,17
+927,2019-10-06,aldi vegan range,0
+928,2019-10-13,aldi vegan range,16
+929,2019-10-20,aldi vegan range,17
+930,2019-10-27,aldi vegan range,41
+931,2019-11-03,aldi vegan range,24
+932,2019-11-10,aldi vegan range,32
+933,2019-11-17,aldi vegan range,32
+934,2019-11-24,aldi vegan range,15
+935,2019-12-01,aldi vegan range,16
+936,2019-12-08,aldi vegan range,38
+937,2019-12-15,aldi vegan range,34
+938,2019-12-22,aldi vegan range,28
+939,2019-12-29,aldi vegan range,100
+940,2020-01-05,aldi vegan range,72
+941,2020-01-12,aldi vegan range,61
+942,2020-01-19,aldi vegan range,37
+943,2020-01-26,aldi vegan range,23
+944,2020-02-02,aldi vegan range,42
+945,2020-02-09,aldi vegan range,15
+946,2020-02-16,aldi vegan range,23
+947,2020-02-23,aldi vegan range,37
+948,2020-03-01,aldi vegan range,23
+949,2020-03-08,aldi vegan range,23
+950,2019-03-31,vegan burger,15
+951,2019-04-07,vegan burger,11
+952,2019-04-14,vegan burger,13
+953,2019-04-21,vegan burger,12
+954,2019-04-28,vegan burger,12
+955,2019-05-05,vegan burger,10
+956,2019-05-12,vegan burger,13
+957,2019-05-19,vegan burger,13
+958,2019-05-26,vegan burger,9
+959,2019-06-02,vegan burger,10
+960,2019-06-09,vegan burger,17
+961,2019-06-16,vegan burger,31
+962,2019-06-23,vegan burger,14
+963,2019-06-30,vegan burger,15
+964,2019-07-07,vegan burger,17
+965,2019-07-14,vegan burger,13
+966,2019-07-21,vegan burger,16
+967,2019-07-28,vegan burger,15
+968,2019-08-04,vegan burger,16
+969,2019-08-11,vegan burger,15
+970,2019-08-18,vegan burger,15
+971,2019-08-25,vegan burger,18
+972,2019-09-01,vegan burger,13
+973,2019-09-08,vegan burger,12
+974,2019-09-15,vegan burger,12
+975,2019-09-22,vegan burger,14
+976,2019-09-29,vegan burger,9
+977,2019-10-06,vegan burger,12
+978,2019-10-13,vegan burger,12
+979,2019-10-20,vegan burger,17
+980,2019-10-27,vegan burger,15
+981,2019-11-03,vegan burger,15
+982,2019-11-10,vegan burger,16
+983,2019-11-17,vegan burger,15
+984,2019-11-24,vegan burger,12
+985,2019-12-01,vegan burger,13
+986,2019-12-08,vegan burger,13
+987,2019-12-15,vegan burger,11
+988,2019-12-22,vegan burger,13
+989,2019-12-29,vegan burger,97
+990,2020-01-05,vegan burger,100
+991,2020-01-12,vegan burger,56
+992,2020-01-19,vegan burger,48
+993,2020-01-26,vegan burger,51
+994,2020-02-02,vegan burger,32
+995,2020-02-09,vegan burger,25
+996,2020-02-16,vegan burger,24
+997,2020-02-23,vegan burger,19
+998,2020-03-01,vegan burger,18
+999,2020-03-08,vegan burger,14
+1000,2019-03-31,vegan athletes,10
+1001,2019-04-07,vegan athletes,21
+1002,2019-04-14,vegan athletes,22
+1003,2019-04-21,vegan athletes,16
+1004,2019-04-28,vegan athletes,10
+1005,2019-05-05,vegan athletes,20
+1006,2019-05-12,vegan athletes,10
+1007,2019-05-19,vegan athletes,10
+1008,2019-05-26,vegan athletes,10
+1009,2019-06-02,vegan athletes,29
+1010,2019-06-09,vegan athletes,15
+1011,2019-06-16,vegan athletes,26
+1012,2019-06-23,vegan athletes,0
+1013,2019-06-30,vegan athletes,15
+1014,2019-07-07,vegan athletes,10
+1015,2019-07-14,vegan athletes,10
+1016,2019-07-21,vegan athletes,21
+1017,2019-07-28,vegan athletes,10
+1018,2019-08-04,vegan athletes,10
+1019,2019-08-11,vegan athletes,10
+1020,2019-08-18,vegan athletes,10
+1021,2019-08-25,vegan athletes,10
+1022,2019-09-01,vegan athletes,23
+1023,2019-09-08,vegan athletes,10
+1024,2019-09-15,vegan athletes,20
+1025,2019-09-22,vegan athletes,23
+1026,2019-09-29,vegan athletes,19
+1027,2019-10-06,vegan athletes,22
+1028,2019-10-13,vegan athletes,69
+1029,2019-10-20,vegan athletes,100
+1030,2019-10-27,vegan athletes,94
+1031,2019-11-03,vegan athletes,63
+1032,2019-11-10,vegan athletes,70
+1033,2019-11-17,vegan athletes,67
+1034,2019-11-24,vegan athletes,44
+1035,2019-12-01,vegan athletes,42
+1036,2019-12-08,vegan athletes,25
+1037,2019-12-15,vegan athletes,22
+1038,2019-12-22,vegan athletes,28
+1039,2019-12-29,vegan athletes,28
+1040,2020-01-05,vegan athletes,41
+1041,2020-01-12,vegan athletes,49
+1042,2020-01-19,vegan athletes,27
+1043,2020-01-26,vegan athletes,32
+1044,2020-02-02,vegan athletes,21
+1045,2020-02-09,vegan athletes,35
+1046,2020-02-16,vegan athletes,14
+1047,2020-02-23,vegan athletes,21
+1048,2020-03-01,vegan athletes,17
+1049,2020-03-08,vegan athletes,19
+1050,2019-03-31,vegan mayo,21
+1051,2019-04-07,vegan mayo,16
+1052,2019-04-14,vegan mayo,21
+1053,2019-04-21,vegan mayo,19
+1054,2019-04-28,vegan mayo,10
+1055,2019-05-05,vegan mayo,8
+1056,2019-05-12,vegan mayo,11
+1057,2019-05-19,vegan mayo,8
+1058,2019-05-26,vegan mayo,16
+1059,2019-06-02,vegan mayo,11
+1060,2019-06-09,vegan mayo,10
+1061,2019-06-16,vegan mayo,13
+1062,2019-06-23,vegan mayo,9
+1063,2019-06-30,vegan mayo,10
+1064,2019-07-07,vegan mayo,15
+1065,2019-07-14,vegan mayo,10
+1066,2019-07-21,vegan mayo,19
+1067,2019-07-28,vegan mayo,14
+1068,2019-08-04,vegan mayo,13
+1069,2019-08-11,vegan mayo,13
+1070,2019-08-18,vegan mayo,7
+1071,2019-08-25,vegan mayo,8
+1072,2019-09-01,vegan mayo,6
+1073,2019-09-08,vegan mayo,11
+1074,2019-09-15,vegan mayo,6
+1075,2019-09-22,vegan mayo,7
+1076,2019-09-29,vegan mayo,7
+1077,2019-10-06,vegan mayo,8
+1078,2019-10-13,vegan mayo,5
+1079,2019-10-20,vegan mayo,16
+1080,2019-10-27,vegan mayo,8
+1081,2019-11-03,vegan mayo,13
+1082,2019-11-10,vegan mayo,16
+1083,2019-11-17,vegan mayo,12
+1084,2019-11-24,vegan mayo,10
+1085,2019-12-01,vegan mayo,9
+1086,2019-12-08,vegan mayo,8
+1087,2019-12-15,vegan mayo,7
+1088,2019-12-22,vegan mayo,11
+1089,2019-12-29,vegan mayo,27
+1090,2020-01-05,vegan mayo,41
+1091,2020-01-12,vegan mayo,38
+1092,2020-01-19,vegan mayo,62
+1093,2020-01-26,vegan mayo,100
+1094,2020-02-02,vegan mayo,64
+1095,2020-02-09,vegan mayo,24
+1096,2020-02-16,vegan mayo,39
+1097,2020-02-23,vegan mayo,27
+1098,2020-03-01,vegan mayo,30
+1099,2020-03-08,vegan mayo,12
+1100,2019-03-31,vegan junk food bar,77
+1101,2019-04-07,vegan junk food bar,38
+1102,2019-04-14,vegan junk food bar,40
+1103,2019-04-21,vegan junk food bar,38
+1104,2019-04-28,vegan junk food bar,37
+1105,2019-05-05,vegan junk food bar,56
+1106,2019-05-12,vegan junk food bar,0
+1107,2019-05-19,vegan junk food bar,76
+1108,2019-05-26,vegan junk food bar,75
+1109,2019-06-02,vegan junk food bar,0
+1110,2019-06-09,vegan junk food bar,0
+1111,2019-06-16,vegan junk food bar,56
+1112,2019-06-23,vegan junk food bar,37
+1113,2019-06-30,vegan junk food bar,0
+1114,2019-07-07,vegan junk food bar,0
+1115,2019-07-14,vegan junk food bar,38
+1116,2019-07-21,vegan junk food bar,38
+1117,2019-07-28,vegan junk food bar,38
+1118,2019-08-04,vegan junk food bar,49
+1119,2019-08-11,vegan junk food bar,37
+1120,2019-08-18,vegan junk food bar,38
+1121,2019-08-25,vegan junk food bar,0
+1122,2019-09-01,vegan junk food bar,48
+1123,2019-09-08,vegan junk food bar,36
+1124,2019-09-15,vegan junk food bar,37
+1125,2019-09-22,vegan junk food bar,0
+1126,2019-09-29,vegan junk food bar,34
+1127,2019-10-06,vegan junk food bar,0
+1128,2019-10-13,vegan junk food bar,0
+1129,2019-10-20,vegan junk food bar,35
+1130,2019-10-27,vegan junk food bar,35
+1131,2019-11-03,vegan junk food bar,33
+1132,2019-11-10,vegan junk food bar,68
+1133,2019-11-17,vegan junk food bar,67
+1134,2019-11-24,vegan junk food bar,0
+1135,2019-12-01,vegan junk food bar,100
+1136,2019-12-08,vegan junk food bar,34
+1137,2019-12-15,vegan junk food bar,35
+1138,2019-12-22,vegan junk food bar,77
+1139,2019-12-29,vegan junk food bar,70
+1140,2020-01-05,vegan junk food bar,32
+1141,2020-01-12,vegan junk food bar,64
+1142,2020-01-19,vegan junk food bar,66
+1143,2020-01-26,vegan junk food bar,54
+1144,2020-02-02,vegan junk food bar,33
+1145,2020-02-09,vegan junk food bar,64
+1146,2020-02-16,vegan junk food bar,43
+1147,2020-02-23,vegan junk food bar,0
+1148,2020-03-01,vegan junk food bar,31
+1149,2020-03-08,vegan junk food bar,0
+1150,2019-03-31,vegan burrito,17
+1151,2019-04-07,vegan burrito,12
+1152,2019-04-14,vegan burrito,20
+1153,2019-04-21,vegan burrito,25
+1154,2019-04-28,vegan burrito,23
+1155,2019-05-05,vegan burrito,19
+1156,2019-05-12,vegan burrito,14
+1157,2019-05-19,vegan burrito,19
+1158,2019-05-26,vegan burrito,9
+1159,2019-06-02,vegan burrito,25
+1160,2019-06-09,vegan burrito,14
+1161,2019-06-16,vegan burrito,14
+1162,2019-06-23,vegan burrito,26
+1163,2019-06-30,vegan burrito,19
+1164,2019-07-07,vegan burrito,23
+1165,2019-07-14,vegan burrito,17
+1166,2019-07-21,vegan burrito,17
+1167,2019-07-28,vegan burrito,17
+1168,2019-08-04,vegan burrito,16
+1169,2019-08-11,vegan burrito,16
+1170,2019-08-18,vegan burrito,10
+1171,2019-08-25,vegan burrito,32
+1172,2019-09-01,vegan burrito,23
+1173,2019-09-08,vegan burrito,20
+1174,2019-09-15,vegan burrito,14
+1175,2019-09-22,vegan burrito,26
+1176,2019-09-29,vegan burrito,16
+1177,2019-10-06,vegan burrito,17
+1178,2019-10-13,vegan burrito,24
+1179,2019-10-20,vegan burrito,98
+1180,2019-10-27,vegan burrito,100
+1181,2019-11-03,vegan burrito,98
+1182,2019-11-10,vegan burrito,94
+1183,2019-11-17,vegan burrito,68
+1184,2019-11-24,vegan burrito,73
+1185,2019-12-01,vegan burrito,32
+1186,2019-12-08,vegan burrito,37
+1187,2019-12-15,vegan burrito,31
+1188,2019-12-22,vegan burrito,51
+1189,2019-12-29,vegan burrito,68
+1190,2020-01-05,vegan burrito,88
+1191,2020-01-12,vegan burrito,72
+1192,2020-01-19,vegan burrito,71
+1193,2020-01-26,vegan burrito,37
+1194,2020-02-02,vegan burrito,27
+1195,2020-02-09,vegan burrito,26
+1196,2020-02-16,vegan burrito,44
+1197,2020-02-23,vegan burrito,43
+1198,2020-03-01,vegan burrito,24
+1199,2020-03-08,vegan burrito,20
+1200,2019-03-31,vegan tuna,11
+1201,2019-04-07,vegan tuna,16
+1202,2019-04-14,vegan tuna,26
+1203,2019-04-21,vegan tuna,14
+1204,2019-04-28,vegan tuna,28
+1205,2019-05-05,vegan tuna,10
+1206,2019-05-12,vegan tuna,11
+1207,2019-05-19,vegan tuna,35
+1208,2019-05-26,vegan tuna,15
+1209,2019-06-02,vegan tuna,16
+1210,2019-06-09,vegan tuna,12
+1211,2019-06-16,vegan tuna,14
+1212,2019-06-23,vegan tuna,28
+1213,2019-06-30,vegan tuna,14
+1214,2019-07-07,vegan tuna,10
+1215,2019-07-14,vegan tuna,14
+1216,2019-07-21,vegan tuna,23
+1217,2019-07-28,vegan tuna,16
+1218,2019-08-04,vegan tuna,15
+1219,2019-08-11,vegan tuna,15
+1220,2019-08-18,vegan tuna,14
+1221,2019-08-25,vegan tuna,14
+1222,2019-09-01,vegan tuna,15
+1223,2019-09-08,vegan tuna,8
+1224,2019-09-15,vegan tuna,13
+1225,2019-09-22,vegan tuna,9
+1226,2019-09-29,vegan tuna,12
+1227,2019-10-06,vegan tuna,7
+1228,2019-10-13,vegan tuna,13
+1229,2019-10-20,vegan tuna,17
+1230,2019-10-27,vegan tuna,10
+1231,2019-11-03,vegan tuna,5
+1232,2019-11-10,vegan tuna,9
+1233,2019-11-17,vegan tuna,14
+1234,2019-11-24,vegan tuna,9
+1235,2019-12-01,vegan tuna,19
+1236,2019-12-08,vegan tuna,8
+1237,2019-12-15,vegan tuna,10
+1238,2019-12-22,vegan tuna,16
+1239,2019-12-29,vegan tuna,61
+1240,2020-01-05,vegan tuna,58
+1241,2020-01-12,vegan tuna,95
+1242,2020-01-19,vegan tuna,100
+1243,2020-01-26,vegan tuna,45
+1244,2020-02-02,vegan tuna,26
+1245,2020-02-09,vegan tuna,23
+1246,2020-02-16,vegan tuna,19
+1247,2020-02-23,vegan tuna,16
+1248,2020-03-01,vegan tuna,20
+1249,2020-03-08,vegan tuna,13

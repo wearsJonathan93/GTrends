@@ -1,0 +1,451 @@
+,date,variable,value
+0,2019-03-31,alton towers restaurants,85
+1,2019-04-07,alton towers restaurants,45
+2,2019-04-14,alton towers restaurants,71
+3,2019-04-21,alton towers restaurants,51
+4,2019-04-28,alton towers restaurants,66
+5,2019-05-05,alton towers restaurants,50
+6,2019-05-12,alton towers restaurants,85
+7,2019-05-19,alton towers restaurants,34
+8,2019-05-26,alton towers restaurants,33
+9,2019-06-02,alton towers restaurants,63
+10,2019-06-09,alton towers restaurants,54
+11,2019-06-16,alton towers restaurants,33
+12,2019-06-23,alton towers restaurants,67
+13,2019-06-30,alton towers restaurants,50
+14,2019-07-07,alton towers restaurants,66
+15,2019-07-14,alton towers restaurants,49
+16,2019-07-21,alton towers restaurants,67
+17,2019-07-28,alton towers restaurants,79
+18,2019-08-04,alton towers restaurants,66
+19,2019-08-11,alton towers restaurants,65
+20,2019-08-18,alton towers restaurants,68
+21,2019-08-25,alton towers restaurants,100
+22,2019-09-01,alton towers restaurants,43
+23,2019-09-08,alton towers restaurants,0
+24,2019-09-15,alton towers restaurants,32
+25,2019-09-22,alton towers restaurants,41
+26,2019-09-29,alton towers restaurants,47
+27,2019-10-06,alton towers restaurants,31
+28,2019-10-13,alton towers restaurants,31
+29,2019-10-20,alton towers restaurants,31
+30,2019-10-27,alton towers restaurants,61
+31,2019-11-03,alton towers restaurants,59
+32,2019-11-10,alton towers restaurants,0
+33,2019-11-17,alton towers restaurants,0
+34,2019-11-24,alton towers restaurants,0
+35,2019-12-01,alton towers restaurants,0
+36,2019-12-08,alton towers restaurants,0
+37,2019-12-15,alton towers restaurants,0
+38,2019-12-22,alton towers restaurants,35
+39,2019-12-29,alton towers restaurants,62
+40,2020-01-05,alton towers restaurants,28
+41,2020-01-12,alton towers restaurants,29
+42,2020-01-19,alton towers restaurants,29
+43,2020-01-26,alton towers restaurants,29
+44,2020-02-02,alton towers restaurants,59
+45,2020-02-09,alton towers restaurants,43
+46,2020-02-16,alton towers restaurants,0
+47,2020-02-23,alton towers restaurants,27
+48,2020-03-01,alton towers restaurants,28
+49,2020-03-08,alton towers restaurants,0
+50,2019-03-31,take out restaurants near me,67
+51,2019-04-07,take out restaurants near me,66
+52,2019-04-14,take out restaurants near me,35
+53,2019-04-21,take out restaurants near me,100
+54,2019-04-28,take out restaurants near me,48
+55,2019-05-05,take out restaurants near me,49
+56,2019-05-12,take out restaurants near me,0
+57,2019-05-19,take out restaurants near me,0
+58,2019-05-26,take out restaurants near me,0
+59,2019-06-02,take out restaurants near me,0
+60,2019-06-09,take out restaurants near me,0
+61,2019-06-16,take out restaurants near me,33
+62,2019-06-23,take out restaurants near me,0
+63,2019-06-30,take out restaurants near me,33
+64,2019-07-07,take out restaurants near me,32
+65,2019-07-14,take out restaurants near me,32
+66,2019-07-21,take out restaurants near me,0
+67,2019-07-28,take out restaurants near me,33
+68,2019-08-04,take out restaurants near me,32
+69,2019-08-11,take out restaurants near me,0
+70,2019-08-18,take out restaurants near me,33
+71,2019-08-25,take out restaurants near me,97
+72,2019-09-01,take out restaurants near me,0
+73,2019-09-08,take out restaurants near me,0
+74,2019-09-15,take out restaurants near me,32
+75,2019-09-22,take out restaurants near me,30
+76,2019-09-29,take out restaurants near me,30
+77,2019-10-06,take out restaurants near me,60
+78,2019-10-13,take out restaurants near me,30
+79,2019-10-20,take out restaurants near me,30
+80,2019-10-27,take out restaurants near me,59
+81,2019-11-03,take out restaurants near me,44
+82,2019-11-10,take out restaurants near me,87
+83,2019-11-17,take out restaurants near me,29
+84,2019-11-24,take out restaurants near me,28
+85,2019-12-01,take out restaurants near me,0
+86,2019-12-08,take out restaurants near me,0
+87,2019-12-15,take out restaurants near me,31
+88,2019-12-22,take out restaurants near me,34
+89,2019-12-29,take out restaurants near me,30
+90,2020-01-05,take out restaurants near me,28
+91,2020-01-12,take out restaurants near me,46
+92,2020-01-19,take out restaurants near me,86
+93,2020-01-26,take out restaurants near me,0
+94,2020-02-02,take out restaurants near me,0
+95,2020-02-09,take out restaurants near me,55
+96,2020-02-16,take out restaurants near me,55
+97,2020-02-23,take out restaurants near me,41
+98,2020-03-01,take out restaurants near me,27
+99,2020-03-08,take out restaurants near me,41
+100,2019-03-31,michelin star restaurants scotland,58
+101,2019-04-07,michelin star restaurants scotland,57
+102,2019-04-14,michelin star restaurants scotland,30
+103,2019-04-21,michelin star restaurants scotland,29
+104,2019-04-28,michelin star restaurants scotland,37
+105,2019-05-05,michelin star restaurants scotland,28
+106,2019-05-12,michelin star restaurants scotland,29
+107,2019-05-19,michelin star restaurants scotland,29
+108,2019-05-26,michelin star restaurants scotland,55
+109,2019-06-02,michelin star restaurants scotland,27
+110,2019-06-09,michelin star restaurants scotland,37
+111,2019-06-16,michelin star restaurants scotland,57
+112,2019-06-23,michelin star restaurants scotland,28
+113,2019-06-30,michelin star restaurants scotland,71
+114,2019-07-07,michelin star restaurants scotland,28
+115,2019-07-14,michelin star restaurants scotland,42
+116,2019-07-21,michelin star restaurants scotland,29
+117,2019-07-28,michelin star restaurants scotland,100
+118,2019-08-04,michelin star restaurants scotland,42
+119,2019-08-11,michelin star restaurants scotland,41
+120,2019-08-18,michelin star restaurants scotland,87
+121,2019-08-25,michelin star restaurants scotland,57
+122,2019-09-01,michelin star restaurants scotland,46
+123,2019-09-08,michelin star restaurants scotland,41
+124,2019-09-15,michelin star restaurants scotland,55
+125,2019-09-22,michelin star restaurants scotland,61
+126,2019-09-29,michelin star restaurants scotland,44
+127,2019-10-06,michelin star restaurants scotland,91
+128,2019-10-13,michelin star restaurants scotland,39
+129,2019-10-20,michelin star restaurants scotland,26
+130,2019-10-27,michelin star restaurants scotland,26
+131,2019-11-03,michelin star restaurants scotland,25
+132,2019-11-10,michelin star restaurants scotland,51
+133,2019-11-17,michelin star restaurants scotland,33
+134,2019-11-24,michelin star restaurants scotland,24
+135,2019-12-01,michelin star restaurants scotland,42
+136,2019-12-08,michelin star restaurants scotland,26
+137,2019-12-15,michelin star restaurants scotland,44
+138,2019-12-22,michelin star restaurants scotland,29
+139,2019-12-29,michelin star restaurants scotland,35
+140,2020-01-05,michelin star restaurants scotland,49
+141,2020-01-12,michelin star restaurants scotland,48
+142,2020-01-19,michelin star restaurants scotland,62
+143,2020-01-26,michelin star restaurants scotland,49
+144,2020-02-02,michelin star restaurants scotland,25
+145,2020-02-09,michelin star restaurants scotland,40
+146,2020-02-16,michelin star restaurants scotland,48
+147,2020-02-23,michelin star restaurants scotland,35
+148,2020-03-01,michelin star restaurants scotland,35
+149,2020-03-08,michelin star restaurants scotland,46
+150,2019-03-31,restaurants in westfield,40
+151,2019-04-07,restaurants in westfield,95
+152,2019-04-14,restaurants in westfield,100
+153,2019-04-21,restaurants in westfield,64
+154,2019-04-28,restaurants in westfield,31
+155,2019-05-05,restaurants in westfield,39
+156,2019-05-12,restaurants in westfield,48
+157,2019-05-19,restaurants in westfield,48
+158,2019-05-26,restaurants in westfield,39
+159,2019-06-02,restaurants in westfield,45
+160,2019-06-09,restaurants in westfield,61
+161,2019-06-16,restaurants in westfield,39
+162,2019-06-23,restaurants in westfield,35
+163,2019-06-30,restaurants in westfield,63
+164,2019-07-07,restaurants in westfield,35
+165,2019-07-14,restaurants in westfield,39
+166,2019-07-21,restaurants in westfield,24
+167,2019-07-28,restaurants in westfield,56
+168,2019-08-04,restaurants in westfield,47
+169,2019-08-11,restaurants in westfield,69
+170,2019-08-18,restaurants in westfield,72
+171,2019-08-25,restaurants in westfield,63
+172,2019-09-01,restaurants in westfield,30
+173,2019-09-08,restaurants in westfield,45
+174,2019-09-15,restaurants in westfield,61
+175,2019-09-22,restaurants in westfield,58
+176,2019-09-29,restaurants in westfield,44
+177,2019-10-06,restaurants in westfield,43
+178,2019-10-13,restaurants in westfield,43
+179,2019-10-20,restaurants in westfield,80
+180,2019-10-27,restaurants in westfield,72
+181,2019-11-03,restaurants in westfield,64
+182,2019-11-10,restaurants in westfield,35
+183,2019-11-17,restaurants in westfield,56
+184,2019-11-24,restaurants in westfield,30
+185,2019-12-01,restaurants in westfield,21
+186,2019-12-08,restaurants in westfield,32
+187,2019-12-15,restaurants in westfield,55
+188,2019-12-22,restaurants in westfield,40
+189,2019-12-29,restaurants in westfield,44
+190,2020-01-05,restaurants in westfield,34
+191,2020-01-12,restaurants in westfield,40
+192,2020-01-19,restaurants in westfield,62
+193,2020-01-26,restaurants in westfield,41
+194,2020-02-02,restaurants in westfield,62
+195,2020-02-09,restaurants in westfield,60
+196,2020-02-16,restaurants in westfield,30
+197,2020-02-23,restaurants in westfield,79
+198,2020-03-01,restaurants in westfield,79
+199,2020-03-08,restaurants in westfield,0
+200,2019-03-31,palm beach restaurants,28
+201,2019-04-07,palm beach restaurants,28
+202,2019-04-14,palm beach restaurants,29
+203,2019-04-21,palm beach restaurants,0
+204,2019-04-28,palm beach restaurants,40
+205,2019-05-05,palm beach restaurants,0
+206,2019-05-12,palm beach restaurants,0
+207,2019-05-19,palm beach restaurants,28
+208,2019-05-26,palm beach restaurants,27
+209,2019-06-02,palm beach restaurants,0
+210,2019-06-09,palm beach restaurants,40
+211,2019-06-16,palm beach restaurants,27
+212,2019-06-23,palm beach restaurants,0
+213,2019-06-30,palm beach restaurants,27
+214,2019-07-07,palm beach restaurants,27
+215,2019-07-14,palm beach restaurants,27
+216,2019-07-21,palm beach restaurants,37
+217,2019-07-28,palm beach restaurants,0
+218,2019-08-04,palm beach restaurants,40
+219,2019-08-11,palm beach restaurants,40
+220,2019-08-18,palm beach restaurants,28
+221,2019-08-25,palm beach restaurants,0
+222,2019-09-01,palm beach restaurants,26
+223,2019-09-08,palm beach restaurants,0
+224,2019-09-15,palm beach restaurants,26
+225,2019-09-22,palm beach restaurants,0
+226,2019-09-29,palm beach restaurants,38
+227,2019-10-06,palm beach restaurants,50
+228,2019-10-13,palm beach restaurants,25
+229,2019-10-20,palm beach restaurants,100
+230,2019-10-27,palm beach restaurants,25
+231,2019-11-03,palm beach restaurants,32
+232,2019-11-10,palm beach restaurants,25
+233,2019-11-17,palm beach restaurants,36
+234,2019-11-24,palm beach restaurants,0
+235,2019-12-01,palm beach restaurants,24
+236,2019-12-08,palm beach restaurants,49
+237,2019-12-15,palm beach restaurants,26
+238,2019-12-22,palm beach restaurants,84
+239,2019-12-29,palm beach restaurants,76
+240,2020-01-05,palm beach restaurants,48
+241,2020-01-12,palm beach restaurants,23
+242,2020-01-19,palm beach restaurants,24
+243,2020-01-26,palm beach restaurants,24
+244,2020-02-02,palm beach restaurants,24
+245,2020-02-09,palm beach restaurants,0
+246,2020-02-16,palm beach restaurants,23
+247,2020-02-23,palm beach restaurants,45
+248,2020-03-01,palm beach restaurants,23
+249,2020-03-08,palm beach restaurants,22
+250,2019-03-31,dog friendly restaurants near me,54
+251,2019-04-07,dog friendly restaurants near me,72
+252,2019-04-14,dog friendly restaurants near me,80
+253,2019-04-21,dog friendly restaurants near me,50
+254,2019-04-28,dog friendly restaurants near me,74
+255,2019-05-05,dog friendly restaurants near me,66
+256,2019-05-12,dog friendly restaurants near me,31
+257,2019-05-19,dog friendly restaurants near me,63
+258,2019-05-26,dog friendly restaurants near me,100
+259,2019-06-02,dog friendly restaurants near me,42
+260,2019-06-09,dog friendly restaurants near me,52
+261,2019-06-16,dog friendly restaurants near me,49
+262,2019-06-23,dog friendly restaurants near me,22
+263,2019-06-30,dog friendly restaurants near me,33
+264,2019-07-07,dog friendly restaurants near me,22
+265,2019-07-14,dog friendly restaurants near me,66
+266,2019-07-21,dog friendly restaurants near me,72
+267,2019-07-28,dog friendly restaurants near me,90
+268,2019-08-04,dog friendly restaurants near me,48
+269,2019-08-11,dog friendly restaurants near me,87
+270,2019-08-18,dog friendly restaurants near me,63
+271,2019-08-25,dog friendly restaurants near me,62
+272,2019-09-01,dog friendly restaurants near me,60
+273,2019-09-08,dog friendly restaurants near me,51
+274,2019-09-15,dog friendly restaurants near me,51
+275,2019-09-22,dog friendly restaurants near me,24
+276,2019-09-29,dog friendly restaurants near me,45
+277,2019-10-06,dog friendly restaurants near me,24
+278,2019-10-13,dog friendly restaurants near me,45
+279,2019-10-20,dog friendly restaurants near me,20
+280,2019-10-27,dog friendly restaurants near me,49
+281,2019-11-03,dog friendly restaurants near me,41
+282,2019-11-10,dog friendly restaurants near me,12
+283,2019-11-17,dog friendly restaurants near me,18
+284,2019-11-24,dog friendly restaurants near me,11
+285,2019-12-01,dog friendly restaurants near me,30
+286,2019-12-08,dog friendly restaurants near me,16
+287,2019-12-15,dog friendly restaurants near me,21
+288,2019-12-22,dog friendly restaurants near me,64
+289,2019-12-29,dog friendly restaurants near me,53
+290,2020-01-05,dog friendly restaurants near me,15
+291,2020-01-12,dog friendly restaurants near me,11
+292,2020-01-19,dog friendly restaurants near me,35
+293,2020-01-26,dog friendly restaurants near me,12
+294,2020-02-02,dog friendly restaurants near me,12
+295,2020-02-09,dog friendly restaurants near me,30
+296,2020-02-16,dog friendly restaurants near me,26
+297,2020-02-23,dog friendly restaurants near me,18
+298,2020-03-01,dog friendly restaurants near me,22
+299,2020-03-08,dog friendly restaurants near me,17
+300,2019-03-31,resorts world restaurants,53
+301,2019-04-07,resorts world restaurants,53
+302,2019-04-14,resorts world restaurants,0
+303,2019-04-21,resorts world restaurants,43
+304,2019-04-28,resorts world restaurants,21
+305,2019-05-05,resorts world restaurants,42
+306,2019-05-12,resorts world restaurants,43
+307,2019-05-19,resorts world restaurants,21
+308,2019-05-26,resorts world restaurants,62
+309,2019-06-02,resorts world restaurants,100
+310,2019-06-09,resorts world restaurants,30
+311,2019-06-16,resorts world restaurants,52
+312,2019-06-23,resorts world restaurants,21
+313,2019-06-30,resorts world restaurants,21
+314,2019-07-07,resorts world restaurants,21
+315,2019-07-14,resorts world restaurants,42
+316,2019-07-21,resorts world restaurants,86
+317,2019-07-28,resorts world restaurants,21
+318,2019-08-04,resorts world restaurants,0
+319,2019-08-11,resorts world restaurants,20
+320,2019-08-18,resorts world restaurants,43
+321,2019-08-25,resorts world restaurants,21
+322,2019-09-01,resorts world restaurants,40
+323,2019-09-08,resorts world restaurants,40
+324,2019-09-15,resorts world restaurants,51
+325,2019-09-22,resorts world restaurants,39
+326,2019-09-29,resorts world restaurants,29
+327,2019-10-06,resorts world restaurants,48
+328,2019-10-13,resorts world restaurants,29
+329,2019-10-20,resorts world restaurants,0
+330,2019-10-27,resorts world restaurants,58
+331,2019-11-03,resorts world restaurants,37
+332,2019-11-10,resorts world restaurants,0
+333,2019-11-17,resorts world restaurants,65
+334,2019-11-24,resorts world restaurants,36
+335,2019-12-01,resorts world restaurants,37
+336,2019-12-08,resorts world restaurants,29
+337,2019-12-15,resorts world restaurants,60
+338,2019-12-22,resorts world restaurants,21
+339,2019-12-29,resorts world restaurants,68
+340,2020-01-05,resorts world restaurants,18
+341,2020-01-12,resorts world restaurants,53
+342,2020-01-19,resorts world restaurants,37
+343,2020-01-26,resorts world restaurants,18
+344,2020-02-02,resorts world restaurants,28
+345,2020-02-09,resorts world restaurants,27
+346,2020-02-16,resorts world restaurants,18
+347,2020-02-23,resorts world restaurants,44
+348,2020-03-01,resorts world restaurants,44
+349,2020-03-08,resorts world restaurants,40
+350,2019-03-31,restaurants in norwich,47
+351,2019-04-07,restaurants in norwich,47
+352,2019-04-14,restaurants in norwich,41
+353,2019-04-21,restaurants in norwich,32
+354,2019-04-28,restaurants in norwich,34
+355,2019-05-05,restaurants in norwich,54
+356,2019-05-12,restaurants in norwich,71
+357,2019-05-19,restaurants in norwich,71
+358,2019-05-26,restaurants in norwich,53
+359,2019-06-02,restaurants in norwich,33
+360,2019-06-09,restaurants in norwich,68
+361,2019-06-16,restaurants in norwich,54
+362,2019-06-23,restaurants in norwich,47
+363,2019-06-30,restaurants in norwich,63
+364,2019-07-07,restaurants in norwich,54
+365,2019-07-14,restaurants in norwich,39
+366,2019-07-21,restaurants in norwich,35
+367,2019-07-28,restaurants in norwich,95
+368,2019-08-04,restaurants in norwich,100
+369,2019-08-11,restaurants in norwich,54
+370,2019-08-18,restaurants in norwich,79
+371,2019-08-25,restaurants in norwich,62
+372,2019-09-01,restaurants in norwich,83
+373,2019-09-08,restaurants in norwich,75
+374,2019-09-15,restaurants in norwich,30
+375,2019-09-22,restaurants in norwich,57
+376,2019-09-29,restaurants in norwich,43
+377,2019-10-06,restaurants in norwich,57
+378,2019-10-13,restaurants in norwich,50
+379,2019-10-20,restaurants in norwich,43
+380,2019-10-27,restaurants in norwich,64
+381,2019-11-03,restaurants in norwich,76
+382,2019-11-10,restaurants in norwich,49
+383,2019-11-17,restaurants in norwich,62
+384,2019-11-24,restaurants in norwich,73
+385,2019-12-01,restaurants in norwich,62
+386,2019-12-08,restaurants in norwich,56
+387,2019-12-15,restaurants in norwich,51
+388,2019-12-22,restaurants in norwich,84
+389,2019-12-29,restaurants in norwich,72
+390,2020-01-05,restaurants in norwich,60
+391,2020-01-12,restaurants in norwich,60
+392,2020-01-19,restaurants in norwich,82
+393,2020-01-26,restaurants in norwich,71
+394,2020-02-02,restaurants in norwich,82
+395,2020-02-09,restaurants in norwich,93
+396,2020-02-16,restaurants in norwich,50
+397,2020-02-23,restaurants in norwich,71
+398,2020-03-01,restaurants in norwich,58
+399,2020-03-08,restaurants in norwich,42
+400,2019-03-31,restaurants near me now,48
+401,2019-04-07,restaurants near me now,58
+402,2019-04-14,restaurants near me now,61
+403,2019-04-21,restaurants near me now,66
+404,2019-04-28,restaurants near me now,43
+405,2019-05-05,restaurants near me now,54
+406,2019-05-12,restaurants near me now,34
+407,2019-05-19,restaurants near me now,38
+408,2019-05-26,restaurants near me now,47
+409,2019-06-02,restaurants near me now,51
+410,2019-06-09,restaurants near me now,53
+411,2019-06-16,restaurants near me now,44
+412,2019-06-23,restaurants near me now,37
+413,2019-06-30,restaurants near me now,71
+414,2019-07-07,restaurants near me now,60
+415,2019-07-14,restaurants near me now,50
+416,2019-07-21,restaurants near me now,55
+417,2019-07-28,restaurants near me now,72
+418,2019-08-04,restaurants near me now,67
+419,2019-08-11,restaurants near me now,83
+420,2019-08-18,restaurants near me now,72
+421,2019-08-25,restaurants near me now,81
+422,2019-09-01,restaurants near me now,72
+423,2019-09-08,restaurants near me now,91
+424,2019-09-15,restaurants near me now,39
+425,2019-09-22,restaurants near me now,100
+426,2019-09-29,restaurants near me now,35
+427,2019-10-06,restaurants near me now,47
+428,2019-10-13,restaurants near me now,59
+429,2019-10-20,restaurants near me now,66
+430,2019-10-27,restaurants near me now,62
+431,2019-11-03,restaurants near me now,45
+432,2019-11-10,restaurants near me now,46
+433,2019-11-17,restaurants near me now,30
+434,2019-11-24,restaurants near me now,47
+435,2019-12-01,restaurants near me now,45
+436,2019-12-08,restaurants near me now,34
+437,2019-12-15,restaurants near me now,70
+438,2019-12-22,restaurants near me now,73
+439,2019-12-29,restaurants near me now,60
+440,2020-01-05,restaurants near me now,41
+441,2020-01-12,restaurants near me now,23
+442,2020-01-19,restaurants near me now,54
+443,2020-01-26,restaurants near me now,44
+444,2020-02-02,restaurants near me now,36
+445,2020-02-09,restaurants near me now,43
+446,2020-02-16,restaurants near me now,58
+447,2020-02-23,restaurants near me now,25
+448,2020-03-01,restaurants near me now,40
+449,2020-03-08,restaurants near me now,27

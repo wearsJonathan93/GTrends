@@ -1,0 +1,589 @@
+,date,variable,value
+0,2020-02-09,hotels in sandbanks,51
+1,2020-02-10,hotels in sandbanks,50
+2,2020-02-11,hotels in sandbanks,0
+3,2020-02-12,hotels in sandbanks,0
+4,2020-02-13,hotels in sandbanks,0
+5,2020-02-14,hotels in sandbanks,53
+6,2020-02-15,hotels in sandbanks,50
+7,2020-02-16,hotels in sandbanks,0
+8,2020-02-17,hotels in sandbanks,50
+9,2020-02-18,hotels in sandbanks,49
+10,2020-02-19,hotels in sandbanks,100
+11,2020-02-20,hotels in sandbanks,99
+12,2020-02-21,hotels in sandbanks,51
+13,2020-02-22,hotels in sandbanks,53
+14,2020-02-23,hotels in sandbanks,0
+15,2020-02-24,hotels in sandbanks,48
+16,2020-02-25,hotels in sandbanks,0
+17,2020-02-26,hotels in sandbanks,98
+18,2020-02-27,hotels in sandbanks,0
+19,2020-02-28,hotels in sandbanks,50
+20,2020-02-29,hotels in sandbanks,52
+21,2020-03-01,hotels in sandbanks,52
+22,2020-03-02,hotels in sandbanks,0
+23,2020-03-03,hotels in sandbanks,0
+24,2020-03-04,hotels in sandbanks,65
+25,2020-03-05,hotels in sandbanks,49
+26,2020-03-06,hotels in sandbanks,0
+27,2020-03-07,hotels in sandbanks,0
+28,2020-02-09,hotels in exeter,50
+29,2020-02-10,hotels in exeter,0
+30,2020-02-11,hotels in exeter,33
+31,2020-02-12,hotels in exeter,34
+32,2020-02-13,hotels in exeter,0
+33,2020-02-14,hotels in exeter,35
+34,2020-02-15,hotels in exeter,66
+35,2020-02-16,hotels in exeter,51
+36,2020-02-17,hotels in exeter,33
+37,2020-02-18,hotels in exeter,48
+38,2020-02-19,hotels in exeter,33
+39,2020-02-20,hotels in exeter,0
+40,2020-02-21,hotels in exeter,34
+41,2020-02-22,hotels in exeter,35
+42,2020-02-23,hotels in exeter,0
+43,2020-02-24,hotels in exeter,32
+44,2020-02-25,hotels in exeter,32
+45,2020-02-26,hotels in exeter,0
+46,2020-02-27,hotels in exeter,0
+47,2020-02-28,hotels in exeter,0
+48,2020-02-29,hotels in exeter,0
+49,2020-03-01,hotels in exeter,0
+50,2020-03-02,hotels in exeter,0
+51,2020-03-03,hotels in exeter,63
+52,2020-03-04,hotels in exeter,32
+53,2020-03-05,hotels in exeter,64
+54,2020-03-06,hotels in exeter,100
+55,2020-03-07,hotels in exeter,0
+56,2020-02-09,hotels near manchester arena,55
+57,2020-02-10,hotels near manchester arena,32
+58,2020-02-11,hotels near manchester arena,0
+59,2020-02-12,hotels near manchester arena,0
+60,2020-02-13,hotels near manchester arena,100
+61,2020-02-14,hotels near manchester arena,34
+62,2020-02-15,hotels near manchester arena,33
+63,2020-02-16,hotels near manchester arena,34
+64,2020-02-17,hotels near manchester arena,48
+65,2020-02-18,hotels near manchester arena,48
+66,2020-02-19,hotels near manchester arena,32
+67,2020-02-20,hotels near manchester arena,48
+68,2020-02-21,hotels near manchester arena,34
+69,2020-02-22,hotels near manchester arena,57
+70,2020-02-23,hotels near manchester arena,34
+71,2020-02-24,hotels near manchester arena,63
+72,2020-02-25,hotels near manchester arena,47
+73,2020-02-26,hotels near manchester arena,32
+74,2020-02-27,hotels near manchester arena,48
+75,2020-02-28,hotels near manchester arena,97
+76,2020-02-29,hotels near manchester arena,34
+77,2020-03-01,hotels near manchester arena,0
+78,2020-03-02,hotels near manchester arena,73
+79,2020-03-03,hotels near manchester arena,32
+80,2020-03-04,hotels near manchester arena,47
+81,2020-03-05,hotels near manchester arena,32
+82,2020-03-06,hotels near manchester arena,50
+83,2020-03-07,hotels near manchester arena,34
+84,2020-02-09,hotels in maidstone,0
+85,2020-02-10,hotels in maidstone,95
+86,2020-02-11,hotels in maidstone,96
+87,2020-02-12,hotels in maidstone,0
+88,2020-02-13,hotels in maidstone,0
+89,2020-02-14,hotels in maidstone,100
+90,2020-02-15,hotels in maidstone,0
+91,2020-02-16,hotels in maidstone,0
+92,2020-02-17,hotels in maidstone,0
+93,2020-02-18,hotels in maidstone,0
+94,2020-02-19,hotels in maidstone,96
+95,2020-02-20,hotels in maidstone,96
+96,2020-02-21,hotels in maidstone,0
+97,2020-02-22,hotels in maidstone,0
+98,2020-02-23,hotels in maidstone,0
+99,2020-02-24,hotels in maidstone,0
+100,2020-02-25,hotels in maidstone,93
+101,2020-02-26,hotels in maidstone,0
+102,2020-02-27,hotels in maidstone,94
+103,2020-02-28,hotels in maidstone,0
+104,2020-02-29,hotels in maidstone,99
+105,2020-03-01,hotels in maidstone,0
+106,2020-03-02,hotels in maidstone,0
+107,2020-03-03,hotels in maidstone,0
+108,2020-03-04,hotels in maidstone,0
+109,2020-03-05,hotels in maidstone,0
+110,2020-03-06,hotels in maidstone,97
+111,2020-03-07,hotels in maidstone,0
+112,2020-02-09,eastbourne hotels,33
+113,2020-02-10,eastbourne hotels,65
+114,2020-02-11,eastbourne hotels,33
+115,2020-02-12,eastbourne hotels,0
+116,2020-02-13,eastbourne hotels,0
+117,2020-02-14,eastbourne hotels,34
+118,2020-02-15,eastbourne hotels,81
+119,2020-02-16,eastbourne hotels,34
+120,2020-02-17,eastbourne hotels,65
+121,2020-02-18,eastbourne hotels,32
+122,2020-02-19,eastbourne hotels,98
+123,2020-02-20,eastbourne hotels,65
+124,2020-02-21,eastbourne hotels,0
+125,2020-02-22,eastbourne hotels,0
+126,2020-02-23,eastbourne hotels,34
+127,2020-02-24,eastbourne hotels,63
+128,2020-02-25,eastbourne hotels,31
+129,2020-02-26,eastbourne hotels,79
+130,2020-02-27,eastbourne hotels,0
+131,2020-02-28,eastbourne hotels,32
+132,2020-02-29,eastbourne hotels,51
+133,2020-03-01,eastbourne hotels,100
+134,2020-03-02,eastbourne hotels,47
+135,2020-03-03,eastbourne hotels,0
+136,2020-03-04,eastbourne hotels,32
+137,2020-03-05,eastbourne hotels,97
+138,2020-03-06,eastbourne hotels,33
+139,2020-03-07,eastbourne hotels,34
+140,2020-02-09,hotels in portsmouth,73
+141,2020-02-10,hotels in portsmouth,71
+142,2020-02-11,hotels in portsmouth,36
+143,2020-02-12,hotels in portsmouth,55
+144,2020-02-13,hotels in portsmouth,73
+145,2020-02-14,hotels in portsmouth,100
+146,2020-02-15,hotels in portsmouth,35
+147,2020-02-16,hotels in portsmouth,75
+148,2020-02-17,hotels in portsmouth,35
+149,2020-02-18,hotels in portsmouth,34
+150,2020-02-19,hotels in portsmouth,0
+151,2020-02-20,hotels in portsmouth,35
+152,2020-02-21,hotels in portsmouth,55
+153,2020-02-22,hotels in portsmouth,0
+154,2020-02-23,hotels in portsmouth,55
+155,2020-02-24,hotels in portsmouth,35
+156,2020-02-25,hotels in portsmouth,34
+157,2020-02-26,hotels in portsmouth,71
+158,2020-02-27,hotels in portsmouth,35
+159,2020-02-28,hotels in portsmouth,0
+160,2020-02-29,hotels in portsmouth,37
+161,2020-03-01,hotels in portsmouth,37
+162,2020-03-02,hotels in portsmouth,34
+163,2020-03-03,hotels in portsmouth,35
+164,2020-03-04,hotels in portsmouth,35
+165,2020-03-05,hotels in portsmouth,53
+166,2020-03-06,hotels in portsmouth,72
+167,2020-03-07,hotels in portsmouth,75
+168,2020-02-09,hotels near manchester airport,21
+169,2020-02-10,hotels near manchester airport,34
+170,2020-02-11,hotels near manchester airport,51
+171,2020-02-12,hotels near manchester airport,31
+172,2020-02-13,hotels near manchester airport,21
+173,2020-02-14,hotels near manchester airport,32
+174,2020-02-15,hotels near manchester airport,27
+175,2020-02-16,hotels near manchester airport,0
+176,2020-02-17,hotels near manchester airport,20
+177,2020-02-18,hotels near manchester airport,30
+178,2020-02-19,hotels near manchester airport,20
+179,2020-02-20,hotels near manchester airport,100
+180,2020-02-21,hotels near manchester airport,21
+181,2020-02-22,hotels near manchester airport,21
+182,2020-02-23,hotels near manchester airport,21
+183,2020-02-24,hotels near manchester airport,49
+184,2020-02-25,hotels near manchester airport,20
+185,2020-02-26,hotels near manchester airport,39
+186,2020-02-27,hotels near manchester airport,0
+187,2020-02-28,hotels near manchester airport,41
+188,2020-02-29,hotels near manchester airport,21
+189,2020-03-01,hotels near manchester airport,0
+190,2020-03-02,hotels near manchester airport,39
+191,2020-03-03,hotels near manchester airport,30
+192,2020-03-04,hotels near manchester airport,59
+193,2020-03-05,hotels near manchester airport,41
+194,2020-03-06,hotels near manchester airport,20
+195,2020-03-07,hotels near manchester airport,0
+196,2020-02-09,day use hotels,40
+197,2020-02-10,day use hotels,0
+198,2020-02-11,day use hotels,39
+199,2020-02-12,day use hotels,60
+200,2020-02-13,day use hotels,39
+201,2020-02-14,day use hotels,0
+202,2020-02-15,day use hotels,38
+203,2020-02-16,day use hotels,0
+204,2020-02-17,day use hotels,58
+205,2020-02-18,day use hotels,37
+206,2020-02-19,day use hotels,58
+207,2020-02-20,day use hotels,0
+208,2020-02-21,day use hotels,40
+209,2020-02-22,day use hotels,41
+210,2020-02-23,day use hotels,0
+211,2020-02-24,day use hotels,38
+212,2020-02-25,day use hotels,94
+213,2020-02-26,day use hotels,0
+214,2020-02-27,day use hotels,0
+215,2020-02-28,day use hotels,39
+216,2020-02-29,day use hotels,40
+217,2020-03-01,day use hotels,100
+218,2020-03-02,day use hotels,38
+219,2020-03-03,day use hotels,62
+220,2020-03-04,day use hotels,75
+221,2020-03-05,day use hotels,38
+222,2020-03-06,day use hotels,0
+223,2020-03-07,day use hotels,0
+224,2020-02-09,oban hotels,0
+225,2020-02-10,oban hotels,80
+226,2020-02-11,oban hotels,49
+227,2020-02-12,oban hotels,100
+228,2020-02-13,oban hotels,44
+229,2020-02-14,oban hotels,51
+230,2020-02-15,oban hotels,65
+231,2020-02-16,oban hotels,33
+232,2020-02-17,oban hotels,32
+233,2020-02-18,oban hotels,31
+234,2020-02-19,oban hotels,43
+235,2020-02-20,oban hotels,48
+236,2020-02-21,oban hotels,66
+237,2020-02-22,oban hotels,68
+238,2020-02-23,oban hotels,55
+239,2020-02-24,oban hotels,46
+240,2020-02-25,oban hotels,73
+241,2020-02-26,oban hotels,32
+242,2020-02-27,oban hotels,80
+243,2020-02-28,oban hotels,80
+244,2020-02-29,oban hotels,33
+245,2020-03-01,oban hotels,0
+246,2020-03-02,oban hotels,31
+247,2020-03-03,oban hotels,31
+248,2020-03-04,oban hotels,62
+249,2020-03-05,oban hotels,48
+250,2020-03-06,oban hotels,49
+251,2020-03-07,oban hotels,34
+252,2020-02-09,preston hotels,34
+253,2020-02-10,preston hotels,82
+254,2020-02-11,preston hotels,0
+255,2020-02-12,preston hotels,34
+256,2020-02-13,preston hotels,50
+257,2020-02-14,preston hotels,35
+258,2020-02-15,preston hotels,33
+259,2020-02-16,preston hotels,34
+260,2020-02-17,preston hotels,49
+261,2020-02-18,preston hotels,32
+262,2020-02-19,preston hotels,54
+263,2020-02-20,preston hotels,33
+264,2020-02-21,preston hotels,34
+265,2020-02-22,preston hotels,52
+266,2020-02-23,preston hotels,0
+267,2020-02-24,preston hotels,0
+268,2020-02-25,preston hotels,63
+269,2020-02-26,preston hotels,32
+270,2020-02-27,preston hotels,49
+271,2020-02-28,preston hotels,49
+272,2020-02-29,preston hotels,46
+273,2020-03-01,preston hotels,34
+274,2020-03-02,preston hotels,32
+275,2020-03-03,preston hotels,32
+276,2020-03-04,preston hotels,0
+277,2020-03-05,preston hotels,65
+278,2020-03-06,preston hotels,100
+279,2020-03-07,preston hotels,35
+280,2020-02-09,hotels in stratford upon avon,33
+281,2020-02-10,hotels in stratford upon avon,64
+282,2020-02-11,hotels in stratford upon avon,32
+283,2020-02-12,hotels in stratford upon avon,34
+284,2020-02-13,hotels in stratford upon avon,0
+285,2020-02-14,hotels in stratford upon avon,51
+286,2020-02-15,hotels in stratford upon avon,32
+287,2020-02-16,hotels in stratford upon avon,50
+288,2020-02-17,hotels in stratford upon avon,65
+289,2020-02-18,hotels in stratford upon avon,31
+290,2020-02-19,hotels in stratford upon avon,32
+291,2020-02-20,hotels in stratford upon avon,0
+292,2020-02-21,hotels in stratford upon avon,100
+293,2020-02-22,hotels in stratford upon avon,0
+294,2020-02-23,hotels in stratford upon avon,33
+295,2020-02-24,hotels in stratford upon avon,0
+296,2020-02-25,hotels in stratford upon avon,0
+297,2020-02-26,hotels in stratford upon avon,32
+298,2020-02-27,hotels in stratford upon avon,0
+299,2020-02-28,hotels in stratford upon avon,0
+300,2020-02-29,hotels in stratford upon avon,45
+301,2020-03-01,hotels in stratford upon avon,33
+302,2020-03-02,hotels in stratford upon avon,47
+303,2020-03-03,hotels in stratford upon avon,0
+304,2020-03-04,hotels in stratford upon avon,0
+305,2020-03-05,hotels in stratford upon avon,65
+306,2020-03-06,hotels in stratford upon avon,0
+307,2020-03-07,hotels in stratford upon avon,34
+308,2020-02-09,cambridge hotels,76
+309,2020-02-10,cambridge hotels,52
+310,2020-02-11,cambridge hotels,67
+311,2020-02-12,cambridge hotels,46
+312,2020-02-13,cambridge hotels,61
+313,2020-02-14,cambridge hotels,23
+314,2020-02-15,cambridge hotels,78
+315,2020-02-16,cambridge hotels,85
+316,2020-02-17,cambridge hotels,59
+317,2020-02-18,cambridge hotels,58
+318,2020-02-19,cambridge hotels,52
+319,2020-02-20,cambridge hotels,44
+320,2020-02-21,cambridge hotels,69
+321,2020-02-22,cambridge hotels,31
+322,2020-02-23,cambridge hotels,100
+323,2020-02-24,cambridge hotels,50
+324,2020-02-25,cambridge hotels,32
+325,2020-02-26,cambridge hotels,65
+326,2020-02-27,cambridge hotels,44
+327,2020-02-28,cambridge hotels,22
+328,2020-02-29,cambridge hotels,47
+329,2020-03-01,cambridge hotels,38
+330,2020-03-02,cambridge hotels,36
+331,2020-03-03,cambridge hotels,58
+332,2020-03-04,cambridge hotels,43
+333,2020-03-05,cambridge hotels,44
+334,2020-03-06,cambridge hotels,38
+335,2020-03-07,cambridge hotels,47
+336,2020-02-09,hotels in bournemouth,62
+337,2020-02-10,hotels in bournemouth,73
+338,2020-02-11,hotels in bournemouth,73
+339,2020-02-12,hotels in bournemouth,50
+340,2020-02-13,hotels in bournemouth,100
+341,2020-02-14,hotels in bournemouth,39
+342,2020-02-15,hotels in bournemouth,73
+343,2020-02-16,hotels in bournemouth,56
+344,2020-02-17,hotels in bournemouth,91
+345,2020-02-18,hotels in bournemouth,36
+346,2020-02-19,hotels in bournemouth,49
+347,2020-02-20,hotels in bournemouth,73
+348,2020-02-21,hotels in bournemouth,63
+349,2020-02-22,hotels in bournemouth,39
+350,2020-02-23,hotels in bournemouth,76
+351,2020-02-24,hotels in bournemouth,71
+352,2020-02-25,hotels in bournemouth,36
+353,2020-02-26,hotels in bournemouth,36
+354,2020-02-27,hotels in bournemouth,72
+355,2020-02-28,hotels in bournemouth,37
+356,2020-02-29,hotels in bournemouth,38
+357,2020-03-01,hotels in bournemouth,76
+358,2020-03-02,hotels in bournemouth,59
+359,2020-03-03,hotels in bournemouth,36
+360,2020-03-04,hotels in bournemouth,71
+361,2020-03-05,hotels in bournemouth,36
+362,2020-03-06,hotels in bournemouth,37
+363,2020-03-07,hotels in bournemouth,77
+364,2020-02-09,hotels in swindon,50
+365,2020-02-10,hotels in swindon,48
+366,2020-02-11,hotels in swindon,0
+367,2020-02-12,hotels in swindon,0
+368,2020-02-13,hotels in swindon,49
+369,2020-02-14,hotels in swindon,51
+370,2020-02-15,hotels in swindon,49
+371,2020-02-16,hotels in swindon,50
+372,2020-02-17,hotels in swindon,0
+373,2020-02-18,hotels in swindon,71
+374,2020-02-19,hotels in swindon,0
+375,2020-02-20,hotels in swindon,0
+376,2020-02-21,hotels in swindon,0
+377,2020-02-22,hotels in swindon,0
+378,2020-02-23,hotels in swindon,50
+379,2020-02-24,hotels in swindon,47
+380,2020-02-25,hotels in swindon,0
+381,2020-02-26,hotels in swindon,48
+382,2020-02-27,hotels in swindon,48
+383,2020-02-28,hotels in swindon,48
+384,2020-02-29,hotels in swindon,0
+385,2020-03-01,hotels in swindon,100
+386,2020-03-02,hotels in swindon,47
+387,2020-03-03,hotels in swindon,0
+388,2020-03-04,hotels in swindon,0
+389,2020-03-05,hotels in swindon,0
+390,2020-03-06,hotels in swindon,49
+391,2020-03-07,hotels in swindon,51
+392,2020-02-09,hotels in cheltenham,50
+393,2020-02-10,hotels in cheltenham,96
+394,2020-02-11,hotels in cheltenham,96
+395,2020-02-12,hotels in cheltenham,0
+396,2020-02-13,hotels in cheltenham,50
+397,2020-02-14,hotels in cheltenham,0
+398,2020-02-15,hotels in cheltenham,49
+399,2020-02-16,hotels in cheltenham,0
+400,2020-02-17,hotels in cheltenham,48
+401,2020-02-18,hotels in cheltenham,95
+402,2020-02-19,hotels in cheltenham,48
+403,2020-02-20,hotels in cheltenham,48
+404,2020-02-21,hotels in cheltenham,99
+405,2020-02-22,hotels in cheltenham,0
+406,2020-02-23,hotels in cheltenham,100
+407,2020-02-24,hotels in cheltenham,70
+408,2020-02-25,hotels in cheltenham,47
+409,2020-02-26,hotels in cheltenham,48
+410,2020-02-27,hotels in cheltenham,0
+411,2020-02-28,hotels in cheltenham,48
+412,2020-02-29,hotels in cheltenham,50
+413,2020-03-01,hotels in cheltenham,0
+414,2020-03-02,hotels in cheltenham,0
+415,2020-03-03,hotels in cheltenham,0
+416,2020-03-04,hotels in cheltenham,47
+417,2020-03-05,hotels in cheltenham,0
+418,2020-03-06,hotels in cheltenham,49
+419,2020-03-07,hotels in cheltenham,51
+420,2020-02-09,vienna hotels,97
+421,2020-02-10,vienna hotels,31
+422,2020-02-11,vienna hotels,0
+423,2020-02-12,vienna hotels,49
+424,2020-02-13,vienna hotels,32
+425,2020-02-14,vienna hotels,100
+426,2020-02-15,vienna hotels,64
+427,2020-02-16,vienna hotels,82
+428,2020-02-17,vienna hotels,31
+429,2020-02-18,vienna hotels,31
+430,2020-02-19,vienna hotels,95
+431,2020-02-20,vienna hotels,47
+432,2020-02-21,vienna hotels,32
+433,2020-02-22,vienna hotels,0
+434,2020-02-23,vienna hotels,33
+435,2020-02-24,vienna hotels,46
+436,2020-02-25,vienna hotels,0
+437,2020-02-26,vienna hotels,31
+438,2020-02-27,vienna hotels,0
+439,2020-02-28,vienna hotels,79
+440,2020-02-29,vienna hotels,67
+441,2020-03-01,vienna hotels,0
+442,2020-03-02,vienna hotels,93
+443,2020-03-03,vienna hotels,0
+444,2020-03-04,vienna hotels,31
+445,2020-03-05,vienna hotels,0
+446,2020-03-06,vienna hotels,48
+447,2020-03-07,vienna hotels,0
+448,2020-02-09,hotels bournemouth,57
+449,2020-02-10,hotels bournemouth,62
+450,2020-02-11,hotels bournemouth,91
+451,2020-02-12,hotels bournemouth,36
+452,2020-02-13,hotels bournemouth,100
+453,2020-02-14,hotels bournemouth,52
+454,2020-02-15,hotels bournemouth,63
+455,2020-02-16,hotels bournemouth,33
+456,2020-02-17,hotels bournemouth,63
+457,2020-02-18,hotels bournemouth,96
+458,2020-02-19,hotels bournemouth,49
+459,2020-02-20,hotels bournemouth,90
+460,2020-02-21,hotels bournemouth,65
+461,2020-02-22,hotels bournemouth,59
+462,2020-02-23,hotels bournemouth,65
+463,2020-02-24,hotels bournemouth,60
+464,2020-02-25,hotels bournemouth,30
+465,2020-02-26,hotels bournemouth,82
+466,2020-02-27,hotels bournemouth,90
+467,2020-02-28,hotels bournemouth,56
+468,2020-02-29,hotels bournemouth,43
+469,2020-03-01,hotels bournemouth,72
+470,2020-03-02,hotels bournemouth,61
+471,2020-03-03,hotels bournemouth,51
+472,2020-03-04,hotels bournemouth,71
+473,2020-03-05,hotels bournemouth,52
+474,2020-03-06,hotels bournemouth,64
+475,2020-03-07,hotels bournemouth,88
+476,2020-02-09,hotels near euston station,26
+477,2020-02-10,hotels near euston station,50
+478,2020-02-11,hotels near euston station,26
+479,2020-02-12,hotels near euston station,53
+480,2020-02-13,hotels near euston station,26
+481,2020-02-14,hotels near euston station,27
+482,2020-02-15,hotels near euston station,0
+483,2020-02-16,hotels near euston station,53
+484,2020-02-17,hotels near euston station,25
+485,2020-02-18,hotels near euston station,0
+486,2020-02-19,hotels near euston station,0
+487,2020-02-20,hotels near euston station,26
+488,2020-02-21,hotels near euston station,0
+489,2020-02-22,hotels near euston station,81
+490,2020-02-23,hotels near euston station,26
+491,2020-02-24,hotels near euston station,24
+492,2020-02-25,hotels near euston station,25
+493,2020-02-26,hotels near euston station,25
+494,2020-02-27,hotels near euston station,100
+495,2020-02-28,hotels near euston station,0
+496,2020-02-29,hotels near euston station,0
+497,2020-03-01,hotels near euston station,0
+498,2020-03-02,hotels near euston station,25
+499,2020-03-03,hotels near euston station,25
+500,2020-03-04,hotels near euston station,0
+501,2020-03-05,hotels near euston station,0
+502,2020-03-06,hotels near euston station,52
+503,2020-03-07,hotels near euston station,27
+504,2020-02-09,stansted airport hotels,62
+505,2020-02-10,stansted airport hotels,24
+506,2020-02-11,stansted airport hotels,36
+507,2020-02-12,stansted airport hotels,25
+508,2020-02-13,stansted airport hotels,62
+509,2020-02-14,stansted airport hotels,26
+510,2020-02-15,stansted airport hotels,61
+511,2020-02-16,stansted airport hotels,25
+512,2020-02-17,stansted airport hotels,48
+513,2020-02-18,stansted airport hotels,24
+514,2020-02-19,stansted airport hotels,24
+515,2020-02-20,stansted airport hotels,24
+516,2020-02-21,stansted airport hotels,50
+517,2020-02-22,stansted airport hotels,26
+518,2020-02-23,stansted airport hotels,100
+519,2020-02-24,stansted airport hotels,24
+520,2020-02-25,stansted airport hotels,35
+521,2020-02-26,stansted airport hotels,47
+522,2020-02-27,stansted airport hotels,47
+523,2020-02-28,stansted airport hotels,24
+524,2020-02-29,stansted airport hotels,51
+525,2020-03-01,stansted airport hotels,75
+526,2020-03-02,stansted airport hotels,35
+527,2020-03-03,stansted airport hotels,47
+528,2020-03-04,stansted airport hotels,47
+529,2020-03-05,stansted airport hotels,48
+530,2020-03-06,stansted airport hotels,24
+531,2020-03-07,stansted airport hotels,64
+532,2020-02-09,portsmouth hotels,32
+533,2020-02-10,portsmouth hotels,47
+534,2020-02-11,portsmouth hotels,47
+535,2020-02-12,portsmouth hotels,97
+536,2020-02-13,portsmouth hotels,32
+537,2020-02-14,portsmouth hotels,100
+538,2020-02-15,portsmouth hotels,31
+539,2020-02-16,portsmouth hotels,99
+540,2020-02-17,portsmouth hotels,31
+541,2020-02-18,portsmouth hotels,93
+542,2020-02-19,portsmouth hotels,63
+543,2020-02-20,portsmouth hotels,63
+544,2020-02-21,portsmouth hotels,65
+545,2020-02-22,portsmouth hotels,34
+546,2020-02-23,portsmouth hotels,49
+547,2020-02-24,portsmouth hotels,76
+548,2020-02-25,portsmouth hotels,92
+549,2020-02-26,portsmouth hotels,93
+550,2020-02-27,portsmouth hotels,93
+551,2020-02-28,portsmouth hotels,78
+552,2020-02-29,portsmouth hotels,0
+553,2020-03-01,portsmouth hotels,65
+554,2020-03-02,portsmouth hotels,61
+555,2020-03-03,portsmouth hotels,61
+556,2020-03-04,portsmouth hotels,31
+557,2020-03-05,portsmouth hotels,78
+558,2020-03-06,portsmouth hotels,48
+559,2020-03-07,portsmouth hotels,33
+560,2020-02-09,melia hotels,82
+561,2020-02-10,melia hotels,27
+562,2020-02-11,melia hotels,45
+563,2020-02-12,melia hotels,42
+564,2020-02-13,melia hotels,41
+565,2020-02-14,melia hotels,28
+566,2020-02-15,melia hotels,45
+567,2020-02-16,melia hotels,56
+568,2020-02-17,melia hotels,36
+569,2020-02-18,melia hotels,62
+570,2020-02-19,melia hotels,27
+571,2020-02-20,melia hotels,45
+572,2020-02-21,melia hotels,56
+573,2020-02-22,melia hotels,100
+574,2020-02-23,melia hotels,47
+575,2020-02-24,melia hotels,61
+576,2020-02-25,melia hotels,39
+577,2020-02-26,melia hotels,52
+578,2020-02-27,melia hotels,40
+579,2020-02-28,melia hotels,27
+580,2020-02-29,melia hotels,42
+581,2020-03-01,melia hotels,42
+582,2020-03-02,melia hotels,65
+583,2020-03-03,melia hotels,26
+584,2020-03-04,melia hotels,26
+585,2020-03-05,melia hotels,26
+586,2020-03-06,melia hotels,27
+587,2020-03-07,melia hotels,43

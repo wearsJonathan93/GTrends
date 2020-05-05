@@ -1,0 +1,1251 @@
+,date,variable,value
+0,2019-03-31,hard rock cafe piccadilly circus,0
+1,2019-04-07,hard rock cafe piccadilly circus,0
+2,2019-04-14,hard rock cafe piccadilly circus,0
+3,2019-04-21,hard rock cafe piccadilly circus,50
+4,2019-04-28,hard rock cafe piccadilly circus,0
+5,2019-05-05,hard rock cafe piccadilly circus,49
+6,2019-05-12,hard rock cafe piccadilly circus,50
+7,2019-05-19,hard rock cafe piccadilly circus,0
+8,2019-05-26,hard rock cafe piccadilly circus,0
+9,2019-06-02,hard rock cafe piccadilly circus,47
+10,2019-06-09,hard rock cafe piccadilly circus,0
+11,2019-06-16,hard rock cafe piccadilly circus,49
+12,2019-06-23,hard rock cafe piccadilly circus,0
+13,2019-06-30,hard rock cafe piccadilly circus,0
+14,2019-07-07,hard rock cafe piccadilly circus,49
+15,2019-07-14,hard rock cafe piccadilly circus,0
+16,2019-07-21,hard rock cafe piccadilly circus,50
+17,2019-07-28,hard rock cafe piccadilly circus,50
+18,2019-08-04,hard rock cafe piccadilly circus,97
+19,2019-08-11,hard rock cafe piccadilly circus,97
+20,2019-08-18,hard rock cafe piccadilly circus,100
+21,2019-08-25,hard rock cafe piccadilly circus,0
+22,2019-09-01,hard rock cafe piccadilly circus,48
+23,2019-09-08,hard rock cafe piccadilly circus,47
+24,2019-09-15,hard rock cafe piccadilly circus,47
+25,2019-09-22,hard rock cafe piccadilly circus,0
+26,2019-09-29,hard rock cafe piccadilly circus,46
+27,2019-10-06,hard rock cafe piccadilly circus,45
+28,2019-10-13,hard rock cafe piccadilly circus,45
+29,2019-10-20,hard rock cafe piccadilly circus,0
+30,2019-10-27,hard rock cafe piccadilly circus,0
+31,2019-11-03,hard rock cafe piccadilly circus,0
+32,2019-11-10,hard rock cafe piccadilly circus,0
+33,2019-11-17,hard rock cafe piccadilly circus,0
+34,2019-11-24,hard rock cafe piccadilly circus,64
+35,2019-12-01,hard rock cafe piccadilly circus,65
+36,2019-12-08,hard rock cafe piccadilly circus,0
+37,2019-12-15,hard rock cafe piccadilly circus,47
+38,2019-12-22,hard rock cafe piccadilly circus,51
+39,2019-12-29,hard rock cafe piccadilly circus,0
+40,2020-01-05,hard rock cafe piccadilly circus,42
+41,2020-01-12,hard rock cafe piccadilly circus,0
+42,2020-01-19,hard rock cafe piccadilly circus,65
+43,2020-01-26,hard rock cafe piccadilly circus,64
+44,2020-02-02,hard rock cafe piccadilly circus,43
+45,2020-02-09,hard rock cafe piccadilly circus,0
+46,2020-02-16,hard rock cafe piccadilly circus,42
+47,2020-02-23,hard rock cafe piccadilly circus,0
+48,2020-03-01,hard rock cafe piccadilly circus,0
+49,2020-03-08,hard rock cafe piccadilly circus,0
+50,2019-03-31,artbox cafe,0
+51,2019-04-07,artbox cafe,0
+52,2019-04-14,artbox cafe,0
+53,2019-04-21,artbox cafe,0
+54,2019-04-28,artbox cafe,0
+55,2019-05-05,artbox cafe,0
+56,2019-05-12,artbox cafe,0
+57,2019-05-19,artbox cafe,0
+58,2019-05-26,artbox cafe,0
+59,2019-06-02,artbox cafe,0
+60,2019-06-09,artbox cafe,0
+61,2019-06-16,artbox cafe,0
+62,2019-06-23,artbox cafe,0
+63,2019-06-30,artbox cafe,0
+64,2019-07-07,artbox cafe,0
+65,2019-07-14,artbox cafe,0
+66,2019-07-21,artbox cafe,0
+67,2019-07-28,artbox cafe,0
+68,2019-08-04,artbox cafe,0
+69,2019-08-11,artbox cafe,92
+70,2019-08-18,artbox cafe,41
+71,2019-08-25,artbox cafe,61
+72,2019-09-01,artbox cafe,77
+73,2019-09-08,artbox cafe,39
+74,2019-09-15,artbox cafe,39
+75,2019-09-22,artbox cafe,74
+76,2019-09-29,artbox cafe,0
+77,2019-10-06,artbox cafe,74
+78,2019-10-13,artbox cafe,0
+79,2019-10-20,artbox cafe,0
+80,2019-10-27,artbox cafe,0
+81,2019-11-03,artbox cafe,54
+82,2019-11-10,artbox cafe,36
+83,2019-11-17,artbox cafe,0
+84,2019-11-24,artbox cafe,0
+85,2019-12-01,artbox cafe,0
+86,2019-12-08,artbox cafe,0
+87,2019-12-15,artbox cafe,57
+88,2019-12-22,artbox cafe,0
+89,2019-12-29,artbox cafe,37
+90,2020-01-05,artbox cafe,35
+91,2020-01-12,artbox cafe,34
+92,2020-01-19,artbox cafe,0
+93,2020-01-26,artbox cafe,0
+94,2020-02-02,artbox cafe,0
+95,2020-02-09,artbox cafe,34
+96,2020-02-16,artbox cafe,52
+97,2020-02-23,artbox cafe,33
+98,2020-03-01,artbox cafe,100
+99,2020-03-08,artbox cafe,0
+100,2019-03-31,pusheen cafe brighton,0
+101,2019-04-07,pusheen cafe brighton,0
+102,2019-04-14,pusheen cafe brighton,0
+103,2019-04-21,pusheen cafe brighton,0
+104,2019-04-28,pusheen cafe brighton,0
+105,2019-05-05,pusheen cafe brighton,0
+106,2019-05-12,pusheen cafe brighton,0
+107,2019-05-19,pusheen cafe brighton,0
+108,2019-05-26,pusheen cafe brighton,54
+109,2019-06-02,pusheen cafe brighton,0
+110,2019-06-09,pusheen cafe brighton,0
+111,2019-06-16,pusheen cafe brighton,0
+112,2019-06-23,pusheen cafe brighton,0
+113,2019-06-30,pusheen cafe brighton,0
+114,2019-07-07,pusheen cafe brighton,0
+115,2019-07-14,pusheen cafe brighton,0
+116,2019-07-21,pusheen cafe brighton,28
+117,2019-07-28,pusheen cafe brighton,0
+118,2019-08-04,pusheen cafe brighton,0
+119,2019-08-11,pusheen cafe brighton,100
+120,2019-08-18,pusheen cafe brighton,47
+121,2019-08-25,pusheen cafe brighton,56
+122,2019-09-01,pusheen cafe brighton,45
+123,2019-09-08,pusheen cafe brighton,0
+124,2019-09-15,pusheen cafe brighton,40
+125,2019-09-22,pusheen cafe brighton,34
+126,2019-09-29,pusheen cafe brighton,52
+127,2019-10-06,pusheen cafe brighton,26
+128,2019-10-13,pusheen cafe brighton,51
+129,2019-10-20,pusheen cafe brighton,38
+130,2019-10-27,pusheen cafe brighton,60
+131,2019-11-03,pusheen cafe brighton,61
+132,2019-11-10,pusheen cafe brighton,33
+133,2019-11-17,pusheen cafe brighton,33
+134,2019-11-24,pusheen cafe brighton,48
+135,2019-12-01,pusheen cafe brighton,25
+136,2019-12-08,pusheen cafe brighton,25
+137,2019-12-15,pusheen cafe brighton,26
+138,2019-12-22,pusheen cafe brighton,0
+139,2019-12-29,pusheen cafe brighton,65
+140,2020-01-05,pusheen cafe brighton,24
+141,2020-01-12,pusheen cafe brighton,24
+142,2020-01-19,pusheen cafe brighton,49
+143,2020-01-26,pusheen cafe brighton,24
+144,2020-02-02,pusheen cafe brighton,36
+145,2020-02-09,pusheen cafe brighton,47
+146,2020-02-16,pusheen cafe brighton,0
+147,2020-02-23,pusheen cafe brighton,23
+148,2020-03-01,pusheen cafe brighton,0
+149,2020-03-08,pusheen cafe brighton,0
+150,2019-03-31,pusheen cafe,0
+151,2019-04-07,pusheen cafe,0
+152,2019-04-14,pusheen cafe,26
+153,2019-04-21,pusheen cafe,0
+154,2019-04-28,pusheen cafe,0
+155,2019-05-05,pusheen cafe,0
+156,2019-05-12,pusheen cafe,0
+157,2019-05-19,pusheen cafe,0
+158,2019-05-26,pusheen cafe,24
+159,2019-06-02,pusheen cafe,0
+160,2019-06-09,pusheen cafe,0
+161,2019-06-16,pusheen cafe,0
+162,2019-06-23,pusheen cafe,0
+163,2019-06-30,pusheen cafe,0
+164,2019-07-07,pusheen cafe,0
+165,2019-07-14,pusheen cafe,0
+166,2019-07-21,pusheen cafe,0
+167,2019-07-28,pusheen cafe,0
+168,2019-08-04,pusheen cafe,24
+169,2019-08-11,pusheen cafe,60
+170,2019-08-18,pusheen cafe,100
+171,2019-08-25,pusheen cafe,62
+172,2019-09-01,pusheen cafe,0
+173,2019-09-08,pusheen cafe,35
+174,2019-09-15,pusheen cafe,24
+175,2019-09-22,pusheen cafe,23
+176,2019-09-29,pusheen cafe,80
+177,2019-10-06,pusheen cafe,45
+178,2019-10-13,pusheen cafe,34
+179,2019-10-20,pusheen cafe,67
+180,2019-10-27,pusheen cafe,34
+181,2019-11-03,pusheen cafe,43
+182,2019-11-10,pusheen cafe,78
+183,2019-11-17,pusheen cafe,44
+184,2019-11-24,pusheen cafe,21
+185,2019-12-01,pusheen cafe,0
+186,2019-12-08,pusheen cafe,45
+187,2019-12-15,pusheen cafe,46
+188,2019-12-22,pusheen cafe,76
+189,2019-12-29,pusheen cafe,57
+190,2020-01-05,pusheen cafe,22
+191,2020-01-12,pusheen cafe,0
+192,2020-01-19,pusheen cafe,22
+193,2020-01-26,pusheen cafe,42
+194,2020-02-02,pusheen cafe,32
+195,2020-02-09,pusheen cafe,42
+196,2020-02-16,pusheen cafe,31
+197,2020-02-23,pusheen cafe,0
+198,2020-03-01,pusheen cafe,0
+199,2020-03-08,pusheen cafe,0
+200,2019-03-31,ladana cafe,61
+201,2019-04-07,ladana cafe,30
+202,2019-04-14,ladana cafe,32
+203,2019-04-21,ladana cafe,61
+204,2019-04-28,ladana cafe,58
+205,2019-05-05,ladana cafe,60
+206,2019-05-12,ladana cafe,0
+207,2019-05-19,ladana cafe,61
+208,2019-05-26,ladana cafe,30
+209,2019-06-02,ladana cafe,0
+210,2019-06-09,ladana cafe,29
+211,2019-06-16,ladana cafe,45
+212,2019-06-23,ladana cafe,30
+213,2019-06-30,ladana cafe,30
+214,2019-07-07,ladana cafe,69
+215,2019-07-14,ladana cafe,30
+216,2019-07-21,ladana cafe,46
+217,2019-07-28,ladana cafe,60
+218,2019-08-04,ladana cafe,44
+219,2019-08-11,ladana cafe,44
+220,2019-08-18,ladana cafe,30
+221,2019-08-25,ladana cafe,60
+222,2019-09-01,ladana cafe,28
+223,2019-09-08,ladana cafe,100
+224,2019-09-15,ladana cafe,38
+225,2019-09-22,ladana cafe,0
+226,2019-09-29,ladana cafe,28
+227,2019-10-06,ladana cafe,28
+228,2019-10-13,ladana cafe,27
+229,2019-10-20,ladana cafe,46
+230,2019-10-27,ladana cafe,55
+231,2019-11-03,ladana cafe,26
+232,2019-11-10,ladana cafe,27
+233,2019-11-17,ladana cafe,35
+234,2019-11-24,ladana cafe,64
+235,2019-12-01,ladana cafe,44
+236,2019-12-08,ladana cafe,36
+237,2019-12-15,ladana cafe,57
+238,2019-12-22,ladana cafe,51
+239,2019-12-29,ladana cafe,55
+240,2020-01-05,ladana cafe,26
+241,2020-01-12,ladana cafe,42
+242,2020-01-19,ladana cafe,39
+243,2020-01-26,ladana cafe,26
+244,2020-02-02,ladana cafe,44
+245,2020-02-09,ladana cafe,64
+246,2020-02-16,ladana cafe,51
+247,2020-02-23,ladana cafe,50
+248,2020-03-01,ladana cafe,25
+249,2020-03-08,ladana cafe,42
+250,2019-03-31,cafe rouge cheese afternoon tea,0
+251,2019-04-07,cafe rouge cheese afternoon tea,71
+252,2019-04-14,cafe rouge cheese afternoon tea,100
+253,2019-04-21,cafe rouge cheese afternoon tea,0
+254,2019-04-28,cafe rouge cheese afternoon tea,0
+255,2019-05-05,cafe rouge cheese afternoon tea,70
+256,2019-05-12,cafe rouge cheese afternoon tea,0
+257,2019-05-19,cafe rouge cheese afternoon tea,47
+258,2019-05-26,cafe rouge cheese afternoon tea,62
+259,2019-06-02,cafe rouge cheese afternoon tea,45
+260,2019-06-09,cafe rouge cheese afternoon tea,45
+261,2019-06-16,cafe rouge cheese afternoon tea,63
+262,2019-06-23,cafe rouge cheese afternoon tea,0
+263,2019-06-30,cafe rouge cheese afternoon tea,0
+264,2019-07-07,cafe rouge cheese afternoon tea,47
+265,2019-07-14,cafe rouge cheese afternoon tea,70
+266,2019-07-21,cafe rouge cheese afternoon tea,48
+267,2019-07-28,cafe rouge cheese afternoon tea,0
+268,2019-08-04,cafe rouge cheese afternoon tea,46
+269,2019-08-11,cafe rouge cheese afternoon tea,92
+270,2019-08-18,cafe rouge cheese afternoon tea,48
+271,2019-08-25,cafe rouge cheese afternoon tea,94
+272,2019-09-01,cafe rouge cheese afternoon tea,91
+273,2019-09-08,cafe rouge cheese afternoon tea,45
+274,2019-09-15,cafe rouge cheese afternoon tea,45
+275,2019-09-22,cafe rouge cheese afternoon tea,43
+276,2019-09-29,cafe rouge cheese afternoon tea,0
+277,2019-10-06,cafe rouge cheese afternoon tea,65
+278,2019-10-13,cafe rouge cheese afternoon tea,87
+279,2019-10-20,cafe rouge cheese afternoon tea,58
+280,2019-10-27,cafe rouge cheese afternoon tea,87
+281,2019-11-03,cafe rouge cheese afternoon tea,62
+282,2019-11-10,cafe rouge cheese afternoon tea,84
+283,2019-11-17,cafe rouge cheese afternoon tea,83
+284,2019-11-24,cafe rouge cheese afternoon tea,61
+285,2019-12-01,cafe rouge cheese afternoon tea,42
+286,2019-12-08,cafe rouge cheese afternoon tea,43
+287,2019-12-15,cafe rouge cheese afternoon tea,74
+288,2019-12-22,cafe rouge cheese afternoon tea,97
+289,2019-12-29,cafe rouge cheese afternoon tea,44
+290,2020-01-05,cafe rouge cheese afternoon tea,0
+291,2020-01-12,cafe rouge cheese afternoon tea,39
+292,2020-01-19,cafe rouge cheese afternoon tea,62
+293,2020-01-26,cafe rouge cheese afternoon tea,41
+294,2020-02-02,cafe rouge cheese afternoon tea,41
+295,2020-02-09,cafe rouge cheese afternoon tea,40
+296,2020-02-16,cafe rouge cheese afternoon tea,40
+297,2020-02-23,cafe rouge cheese afternoon tea,39
+298,2020-03-01,cafe rouge cheese afternoon tea,66
+299,2020-03-08,cafe rouge cheese afternoon tea,59
+300,2019-03-31,cafe rouge bluewater,0
+301,2019-04-07,cafe rouge bluewater,40
+302,2019-04-14,cafe rouge bluewater,42
+303,2019-04-21,cafe rouge bluewater,40
+304,2019-04-28,cafe rouge bluewater,0
+305,2019-05-05,cafe rouge bluewater,0
+306,2019-05-12,cafe rouge bluewater,60
+307,2019-05-19,cafe rouge bluewater,0
+308,2019-05-26,cafe rouge bluewater,58
+309,2019-06-02,cafe rouge bluewater,37
+310,2019-06-09,cafe rouge bluewater,77
+311,2019-06-16,cafe rouge bluewater,40
+312,2019-06-23,cafe rouge bluewater,40
+313,2019-06-30,cafe rouge bluewater,0
+314,2019-07-07,cafe rouge bluewater,0
+315,2019-07-14,cafe rouge bluewater,0
+316,2019-07-21,cafe rouge bluewater,40
+317,2019-07-28,cafe rouge bluewater,100
+318,2019-08-04,cafe rouge bluewater,39
+319,2019-08-11,cafe rouge bluewater,39
+320,2019-08-18,cafe rouge bluewater,40
+321,2019-08-25,cafe rouge bluewater,40
+322,2019-09-01,cafe rouge bluewater,38
+323,2019-09-08,cafe rouge bluewater,37
+324,2019-09-15,cafe rouge bluewater,0
+325,2019-09-22,cafe rouge bluewater,0
+326,2019-09-29,cafe rouge bluewater,37
+327,2019-10-06,cafe rouge bluewater,72
+328,2019-10-13,cafe rouge bluewater,36
+329,2019-10-20,cafe rouge bluewater,36
+330,2019-10-27,cafe rouge bluewater,72
+331,2019-11-03,cafe rouge bluewater,69
+332,2019-11-10,cafe rouge bluewater,35
+333,2019-11-17,cafe rouge bluewater,35
+334,2019-11-24,cafe rouge bluewater,34
+335,2019-12-01,cafe rouge bluewater,35
+336,2019-12-08,cafe rouge bluewater,0
+337,2019-12-15,cafe rouge bluewater,37
+338,2019-12-22,cafe rouge bluewater,40
+339,2019-12-29,cafe rouge bluewater,37
+340,2020-01-05,cafe rouge bluewater,67
+341,2020-01-12,cafe rouge bluewater,0
+342,2020-01-19,cafe rouge bluewater,35
+343,2020-01-26,cafe rouge bluewater,34
+344,2020-02-02,cafe rouge bluewater,69
+345,2020-02-09,cafe rouge bluewater,33
+346,2020-02-16,cafe rouge bluewater,56
+347,2020-02-23,cafe rouge bluewater,33
+348,2020-03-01,cafe rouge bluewater,33
+349,2020-03-08,cafe rouge bluewater,0
+350,2019-03-31,bangkok cafe,35
+351,2019-04-07,bangkok cafe,52
+352,2019-04-14,bangkok cafe,36
+353,2019-04-21,bangkok cafe,52
+354,2019-04-28,bangkok cafe,84
+355,2019-05-05,bangkok cafe,69
+356,2019-05-12,bangkok cafe,35
+357,2019-05-19,bangkok cafe,35
+358,2019-05-26,bangkok cafe,34
+359,2019-06-02,bangkok cafe,33
+360,2019-06-09,bangkok cafe,50
+361,2019-06-16,bangkok cafe,68
+362,2019-06-23,bangkok cafe,51
+363,2019-06-30,bangkok cafe,51
+364,2019-07-07,bangkok cafe,33
+365,2019-07-14,bangkok cafe,34
+366,2019-07-21,bangkok cafe,0
+367,2019-07-28,bangkok cafe,58
+368,2019-08-04,bangkok cafe,0
+369,2019-08-11,bangkok cafe,100
+370,2019-08-18,bangkok cafe,35
+371,2019-08-25,bangkok cafe,68
+372,2019-09-01,bangkok cafe,33
+373,2019-09-08,bangkok cafe,0
+374,2019-09-15,bangkok cafe,33
+375,2019-09-22,bangkok cafe,32
+376,2019-09-29,bangkok cafe,64
+377,2019-10-06,bangkok cafe,52
+378,2019-10-13,bangkok cafe,32
+379,2019-10-20,bangkok cafe,31
+380,2019-10-27,bangkok cafe,32
+381,2019-11-03,bangkok cafe,0
+382,2019-11-10,bangkok cafe,51
+383,2019-11-17,bangkok cafe,61
+384,2019-11-24,bangkok cafe,0
+385,2019-12-01,bangkok cafe,0
+386,2019-12-08,bangkok cafe,93
+387,2019-12-15,bangkok cafe,0
+388,2019-12-22,bangkok cafe,70
+389,2019-12-29,bangkok cafe,48
+390,2020-01-05,bangkok cafe,30
+391,2020-01-12,bangkok cafe,58
+392,2020-01-19,bangkok cafe,45
+393,2020-01-26,bangkok cafe,30
+394,2020-02-02,bangkok cafe,90
+395,2020-02-09,bangkok cafe,44
+396,2020-02-16,bangkok cafe,49
+397,2020-02-23,bangkok cafe,28
+398,2020-03-01,bangkok cafe,58
+399,2020-03-08,bangkok cafe,64
+400,2019-03-31,whiteways cafe,0
+401,2019-04-07,whiteways cafe,51
+402,2019-04-14,whiteways cafe,0
+403,2019-04-21,whiteways cafe,51
+404,2019-04-28,whiteways cafe,0
+405,2019-05-05,whiteways cafe,0
+406,2019-05-12,whiteways cafe,0
+407,2019-05-19,whiteways cafe,0
+408,2019-05-26,whiteways cafe,0
+409,2019-06-02,whiteways cafe,48
+410,2019-06-09,whiteways cafe,0
+411,2019-06-16,whiteways cafe,51
+412,2019-06-23,whiteways cafe,100
+413,2019-06-30,whiteways cafe,51
+414,2019-07-07,whiteways cafe,0
+415,2019-07-14,whiteways cafe,0
+416,2019-07-21,whiteways cafe,0
+417,2019-07-28,whiteways cafe,0
+418,2019-08-04,whiteways cafe,50
+419,2019-08-11,whiteways cafe,0
+420,2019-08-18,whiteways cafe,51
+421,2019-08-25,whiteways cafe,50
+422,2019-09-01,whiteways cafe,0
+423,2019-09-08,whiteways cafe,0
+424,2019-09-15,whiteways cafe,0
+425,2019-09-22,whiteways cafe,0
+426,2019-09-29,whiteways cafe,94
+427,2019-10-06,whiteways cafe,0
+428,2019-10-13,whiteways cafe,0
+429,2019-10-20,whiteways cafe,0
+430,2019-10-27,whiteways cafe,0
+431,2019-11-03,whiteways cafe,0
+432,2019-11-10,whiteways cafe,45
+433,2019-11-17,whiteways cafe,45
+434,2019-11-24,whiteways cafe,0
+435,2019-12-01,whiteways cafe,0
+436,2019-12-08,whiteways cafe,0
+437,2019-12-15,whiteways cafe,48
+438,2019-12-22,whiteways cafe,0
+439,2019-12-29,whiteways cafe,47
+440,2020-01-05,whiteways cafe,0
+441,2020-01-12,whiteways cafe,0
+442,2020-01-19,whiteways cafe,44
+443,2020-01-26,whiteways cafe,0
+444,2020-02-02,whiteways cafe,44
+445,2020-02-09,whiteways cafe,43
+446,2020-02-16,whiteways cafe,0
+447,2020-02-23,whiteways cafe,0
+448,2020-03-01,whiteways cafe,42
+449,2020-03-08,whiteways cafe,0
+450,2019-03-31,mc cafe,50
+451,2019-04-07,mc cafe,100
+452,2019-04-14,mc cafe,53
+453,2019-04-21,mc cafe,76
+454,2019-04-28,mc cafe,49
+455,2019-05-05,mc cafe,50
+456,2019-05-12,mc cafe,75
+457,2019-05-19,mc cafe,0
+458,2019-05-26,mc cafe,0
+459,2019-06-02,mc cafe,47
+460,2019-06-09,mc cafe,48
+461,2019-06-16,mc cafe,0
+462,2019-06-23,mc cafe,100
+463,2019-06-30,mc cafe,0
+464,2019-07-07,mc cafe,65
+465,2019-07-14,mc cafe,49
+466,2019-07-21,mc cafe,50
+467,2019-07-28,mc cafe,50
+468,2019-08-04,mc cafe,49
+469,2019-08-11,mc cafe,0
+470,2019-08-18,mc cafe,50
+471,2019-08-25,mc cafe,50
+472,2019-09-01,mc cafe,96
+473,2019-09-08,mc cafe,48
+474,2019-09-15,mc cafe,0
+475,2019-09-22,mc cafe,68
+476,2019-09-29,mc cafe,92
+477,2019-10-06,mc cafe,46
+478,2019-10-13,mc cafe,91
+479,2019-10-20,mc cafe,92
+480,2019-10-27,mc cafe,46
+481,2019-11-03,mc cafe,44
+482,2019-11-10,mc cafe,0
+483,2019-11-17,mc cafe,89
+484,2019-11-24,mc cafe,57
+485,2019-12-01,mc cafe,44
+486,2019-12-08,mc cafe,45
+487,2019-12-15,mc cafe,47
+488,2019-12-22,mc cafe,51
+489,2019-12-29,mc cafe,69
+490,2020-01-05,mc cafe,43
+491,2020-01-12,mc cafe,43
+492,2020-01-19,mc cafe,0
+493,2020-01-26,mc cafe,43
+494,2020-02-02,mc cafe,43
+495,2020-02-09,mc cafe,0
+496,2020-02-16,mc cafe,42
+497,2020-02-23,mc cafe,0
+498,2020-03-01,mc cafe,83
+499,2020-03-08,mc cafe,94
+500,2019-03-31,farzi cafe london,43
+501,2019-04-07,farzi cafe london,34
+502,2019-04-14,farzi cafe london,64
+503,2019-04-21,farzi cafe london,35
+504,2019-04-28,farzi cafe london,25
+505,2019-05-05,farzi cafe london,43
+506,2019-05-12,farzi cafe london,35
+507,2019-05-19,farzi cafe london,52
+508,2019-05-26,farzi cafe london,25
+509,2019-06-02,farzi cafe london,41
+510,2019-06-09,farzi cafe london,100
+511,2019-06-16,farzi cafe london,26
+512,2019-06-23,farzi cafe london,51
+513,2019-06-30,farzi cafe london,26
+514,2019-07-07,farzi cafe london,25
+515,2019-07-14,farzi cafe london,25
+516,2019-07-21,farzi cafe london,26
+517,2019-07-28,farzi cafe london,43
+518,2019-08-04,farzi cafe london,25
+519,2019-08-11,farzi cafe london,26
+520,2019-08-18,farzi cafe london,26
+521,2019-08-25,farzi cafe london,69
+522,2019-09-01,farzi cafe london,50
+523,2019-09-08,farzi cafe london,41
+524,2019-09-15,farzi cafe london,25
+525,2019-09-22,farzi cafe london,35
+526,2019-09-29,farzi cafe london,24
+527,2019-10-06,farzi cafe london,23
+528,2019-10-13,farzi cafe london,24
+529,2019-10-20,farzi cafe london,24
+530,2019-10-27,farzi cafe london,39
+531,2019-11-03,farzi cafe london,30
+532,2019-11-10,farzi cafe london,35
+533,2019-11-17,farzi cafe london,23
+534,2019-11-24,farzi cafe london,33
+535,2019-12-01,farzi cafe london,23
+536,2019-12-08,farzi cafe london,23
+537,2019-12-15,farzi cafe london,24
+538,2019-12-22,farzi cafe london,53
+539,2019-12-29,farzi cafe london,48
+540,2020-01-05,farzi cafe london,22
+541,2020-01-12,farzi cafe london,22
+542,2020-01-19,farzi cafe london,23
+543,2020-01-26,farzi cafe london,44
+544,2020-02-02,farzi cafe london,22
+545,2020-02-09,farzi cafe london,22
+546,2020-02-16,farzi cafe london,33
+547,2020-02-23,farzi cafe london,32
+548,2020-03-01,farzi cafe london,29
+549,2020-03-08,farzi cafe london,24
+550,2019-03-31,aroush cafe,0
+551,2019-04-07,aroush cafe,0
+552,2019-04-14,aroush cafe,53
+553,2019-04-21,aroush cafe,0
+554,2019-04-28,aroush cafe,0
+555,2019-05-05,aroush cafe,49
+556,2019-05-12,aroush cafe,0
+557,2019-05-19,aroush cafe,100
+558,2019-05-26,aroush cafe,97
+559,2019-06-02,aroush cafe,47
+560,2019-06-09,aroush cafe,96
+561,2019-06-16,aroush cafe,98
+562,2019-06-23,aroush cafe,49
+563,2019-06-30,aroush cafe,50
+564,2019-07-07,aroush cafe,82
+565,2019-07-14,aroush cafe,49
+566,2019-07-21,aroush cafe,51
+567,2019-07-28,aroush cafe,0
+568,2019-08-04,aroush cafe,49
+569,2019-08-11,aroush cafe,0
+570,2019-08-18,aroush cafe,50
+571,2019-08-25,aroush cafe,49
+572,2019-09-01,aroush cafe,47
+573,2019-09-08,aroush cafe,0
+574,2019-09-15,aroush cafe,97
+575,2019-09-22,aroush cafe,0
+576,2019-09-29,aroush cafe,69
+577,2019-10-06,aroush cafe,45
+578,2019-10-13,aroush cafe,46
+579,2019-10-20,aroush cafe,45
+580,2019-10-27,aroush cafe,46
+581,2019-11-03,aroush cafe,45
+582,2019-11-10,aroush cafe,0
+583,2019-11-17,aroush cafe,0
+584,2019-11-24,aroush cafe,43
+585,2019-12-01,aroush cafe,66
+586,2019-12-08,aroush cafe,45
+587,2019-12-15,aroush cafe,47
+588,2019-12-22,aroush cafe,51
+589,2019-12-29,aroush cafe,46
+590,2020-01-05,aroush cafe,0
+591,2020-01-12,aroush cafe,42
+592,2020-01-19,aroush cafe,0
+593,2020-01-26,aroush cafe,43
+594,2020-02-02,aroush cafe,44
+595,2020-02-09,aroush cafe,0
+596,2020-02-16,aroush cafe,0
+597,2020-02-23,aroush cafe,41
+598,2020-03-01,aroush cafe,0
+599,2020-03-08,aroush cafe,47
+600,2019-03-31,wild food cafe islington,51
+601,2019-04-07,wild food cafe islington,67
+602,2019-04-14,wild food cafe islington,35
+603,2019-04-21,wild food cafe islington,34
+604,2019-04-28,wild food cafe islington,65
+605,2019-05-05,wild food cafe islington,55
+606,2019-05-12,wild food cafe islington,34
+607,2019-05-19,wild food cafe islington,33
+608,2019-05-26,wild food cafe islington,43
+609,2019-06-02,wild food cafe islington,47
+610,2019-06-09,wild food cafe islington,32
+611,2019-06-16,wild food cafe islington,0
+612,2019-06-23,wild food cafe islington,33
+613,2019-06-30,wild food cafe islington,0
+614,2019-07-07,wild food cafe islington,49
+615,2019-07-14,wild food cafe islington,44
+616,2019-07-21,wild food cafe islington,100
+617,2019-07-28,wild food cafe islington,34
+618,2019-08-04,wild food cafe islington,82
+619,2019-08-11,wild food cafe islington,32
+620,2019-08-18,wild food cafe islington,0
+621,2019-08-25,wild food cafe islington,0
+622,2019-09-01,wild food cafe islington,32
+623,2019-09-08,wild food cafe islington,64
+624,2019-09-15,wild food cafe islington,48
+625,2019-09-22,wild food cafe islington,46
+626,2019-09-29,wild food cafe islington,31
+627,2019-10-06,wild food cafe islington,30
+628,2019-10-13,wild food cafe islington,46
+629,2019-10-20,wild food cafe islington,61
+630,2019-10-27,wild food cafe islington,0
+631,2019-11-03,wild food cafe islington,29
+632,2019-11-10,wild food cafe islington,30
+633,2019-11-17,wild food cafe islington,0
+634,2019-11-24,wild food cafe islington,28
+635,2019-12-01,wild food cafe islington,0
+636,2019-12-08,wild food cafe islington,60
+637,2019-12-15,wild food cafe islington,32
+638,2019-12-22,wild food cafe islington,0
+639,2019-12-29,wild food cafe islington,0
+640,2020-01-05,wild food cafe islington,28
+641,2020-01-12,wild food cafe islington,28
+642,2020-01-19,wild food cafe islington,29
+643,2020-01-26,wild food cafe islington,38
+644,2020-02-02,wild food cafe islington,58
+645,2020-02-09,wild food cafe islington,28
+646,2020-02-16,wild food cafe islington,56
+647,2020-02-23,wild food cafe islington,55
+648,2020-03-01,wild food cafe islington,27
+649,2020-03-08,wild food cafe islington,0
+650,2019-03-31,cafe rouge afternoon tea,45
+651,2019-04-07,cafe rouge afternoon tea,57
+652,2019-04-14,cafe rouge afternoon tea,19
+653,2019-04-21,cafe rouge afternoon tea,33
+654,2019-04-28,cafe rouge afternoon tea,54
+655,2019-05-05,cafe rouge afternoon tea,41
+656,2019-05-12,cafe rouge afternoon tea,25
+657,2019-05-19,cafe rouge afternoon tea,18
+658,2019-05-26,cafe rouge afternoon tea,36
+659,2019-06-02,cafe rouge afternoon tea,50
+660,2019-06-09,cafe rouge afternoon tea,39
+661,2019-06-16,cafe rouge afternoon tea,28
+662,2019-06-23,cafe rouge afternoon tea,24
+663,2019-06-30,cafe rouge afternoon tea,24
+664,2019-07-07,cafe rouge afternoon tea,44
+665,2019-07-14,cafe rouge afternoon tea,24
+666,2019-07-21,cafe rouge afternoon tea,25
+667,2019-07-28,cafe rouge afternoon tea,16
+668,2019-08-04,cafe rouge afternoon tea,52
+669,2019-08-11,cafe rouge afternoon tea,56
+670,2019-08-18,cafe rouge afternoon tea,45
+671,2019-08-25,cafe rouge afternoon tea,33
+672,2019-09-01,cafe rouge afternoon tea,35
+673,2019-09-08,cafe rouge afternoon tea,41
+674,2019-09-15,cafe rouge afternoon tea,27
+675,2019-09-22,cafe rouge afternoon tea,37
+676,2019-09-29,cafe rouge afternoon tea,28
+677,2019-10-06,cafe rouge afternoon tea,34
+678,2019-10-13,cafe rouge afternoon tea,52
+679,2019-10-20,cafe rouge afternoon tea,49
+680,2019-10-27,cafe rouge afternoon tea,56
+681,2019-11-03,cafe rouge afternoon tea,50
+682,2019-11-10,cafe rouge afternoon tea,44
+683,2019-11-17,cafe rouge afternoon tea,54
+684,2019-11-24,cafe rouge afternoon tea,66
+685,2019-12-01,cafe rouge afternoon tea,76
+686,2019-12-08,cafe rouge afternoon tea,59
+687,2019-12-15,cafe rouge afternoon tea,100
+688,2019-12-22,cafe rouge afternoon tea,79
+689,2019-12-29,cafe rouge afternoon tea,79
+690,2020-01-05,cafe rouge afternoon tea,60
+691,2020-01-12,cafe rouge afternoon tea,52
+692,2020-01-19,cafe rouge afternoon tea,68
+693,2020-01-26,cafe rouge afternoon tea,70
+694,2020-02-02,cafe rouge afternoon tea,32
+695,2020-02-09,cafe rouge afternoon tea,31
+696,2020-02-16,cafe rouge afternoon tea,80
+697,2020-02-23,cafe rouge afternoon tea,61
+698,2020-03-01,cafe rouge afternoon tea,54
+699,2020-03-08,cafe rouge afternoon tea,50
+700,2019-03-31,the mill cafe,0
+701,2019-04-07,the mill cafe,0
+702,2019-04-14,the mill cafe,0
+703,2019-04-21,the mill cafe,0
+704,2019-04-28,the mill cafe,0
+705,2019-05-05,the mill cafe,35
+706,2019-05-12,the mill cafe,0
+707,2019-05-19,the mill cafe,36
+708,2019-05-26,the mill cafe,0
+709,2019-06-02,the mill cafe,67
+710,2019-06-09,the mill cafe,68
+711,2019-06-16,the mill cafe,70
+712,2019-06-23,the mill cafe,0
+713,2019-06-30,the mill cafe,70
+714,2019-07-07,the mill cafe,35
+715,2019-07-14,the mill cafe,35
+716,2019-07-21,the mill cafe,36
+717,2019-07-28,the mill cafe,54
+718,2019-08-04,the mill cafe,35
+719,2019-08-11,the mill cafe,35
+720,2019-08-18,the mill cafe,36
+721,2019-08-25,the mill cafe,35
+722,2019-09-01,the mill cafe,34
+723,2019-09-08,the mill cafe,0
+724,2019-09-15,the mill cafe,34
+725,2019-09-22,the mill cafe,0
+726,2019-09-29,the mill cafe,33
+727,2019-10-06,the mill cafe,33
+728,2019-10-13,the mill cafe,33
+729,2019-10-20,the mill cafe,32
+730,2019-10-27,the mill cafe,32
+731,2019-11-03,the mill cafe,0
+732,2019-11-10,the mill cafe,47
+733,2019-11-17,the mill cafe,31
+734,2019-11-24,the mill cafe,30
+735,2019-12-01,the mill cafe,31
+736,2019-12-08,the mill cafe,0
+737,2019-12-15,the mill cafe,100
+738,2019-12-22,the mill cafe,72
+739,2019-12-29,the mill cafe,0
+740,2020-01-05,the mill cafe,31
+741,2020-01-12,the mill cafe,0
+742,2020-01-19,the mill cafe,0
+743,2020-01-26,the mill cafe,0
+744,2020-02-02,the mill cafe,31
+745,2020-02-09,the mill cafe,90
+746,2020-02-16,the mill cafe,60
+747,2020-02-23,the mill cafe,58
+748,2020-03-01,the mill cafe,59
+749,2020-03-08,the mill cafe,50
+750,2019-03-31,cafe de china,51
+751,2019-04-07,cafe de china,0
+752,2019-04-14,cafe de china,53
+753,2019-04-21,cafe de china,51
+754,2019-04-28,cafe de china,0
+755,2019-05-05,cafe de china,50
+756,2019-05-12,cafe de china,51
+757,2019-05-19,cafe de china,0
+758,2019-05-26,cafe de china,0
+759,2019-06-02,cafe de china,0
+760,2019-06-09,cafe de china,48
+761,2019-06-16,cafe de china,50
+762,2019-06-23,cafe de china,50
+763,2019-06-30,cafe de china,100
+764,2019-07-07,cafe de china,49
+765,2019-07-14,cafe de china,99
+766,2019-07-21,cafe de china,0
+767,2019-07-28,cafe de china,51
+768,2019-08-04,cafe de china,49
+769,2019-08-11,cafe de china,74
+770,2019-08-18,cafe de china,51
+771,2019-08-25,cafe de china,50
+772,2019-09-01,cafe de china,96
+773,2019-09-08,cafe de china,97
+774,2019-09-15,cafe de china,48
+775,2019-09-22,cafe de china,46
+776,2019-09-29,cafe de china,0
+777,2019-10-06,cafe de china,46
+778,2019-10-13,cafe de china,92
+779,2019-10-20,cafe de china,46
+780,2019-10-27,cafe de china,46
+781,2019-11-03,cafe de china,88
+782,2019-11-10,cafe de china,0
+783,2019-11-17,cafe de china,44
+784,2019-11-24,cafe de china,43
+785,2019-12-01,cafe de china,45
+786,2019-12-08,cafe de china,45
+787,2019-12-15,cafe de china,47
+788,2019-12-22,cafe de china,51
+789,2019-12-29,cafe de china,92
+790,2020-01-05,cafe de china,43
+791,2020-01-12,cafe de china,43
+792,2020-01-19,cafe de china,44
+793,2020-01-26,cafe de china,0
+794,2020-02-02,cafe de china,88
+795,2020-02-09,cafe de china,43
+796,2020-02-16,cafe de china,0
+797,2020-02-23,cafe de china,0
+798,2020-03-01,cafe de china,42
+799,2020-03-08,cafe de china,0
+800,2019-03-31,farzi cafe,56
+801,2019-04-07,farzi cafe,37
+802,2019-04-14,farzi cafe,46
+803,2019-04-21,farzi cafe,47
+804,2019-04-28,farzi cafe,45
+805,2019-05-05,farzi cafe,37
+806,2019-05-12,farzi cafe,56
+807,2019-05-19,farzi cafe,56
+808,2019-05-26,farzi cafe,48
+809,2019-06-02,farzi cafe,35
+810,2019-06-09,farzi cafe,90
+811,2019-06-16,farzi cafe,28
+812,2019-06-23,farzi cafe,25
+813,2019-06-30,farzi cafe,31
+814,2019-07-07,farzi cafe,37
+815,2019-07-14,farzi cafe,49
+816,2019-07-21,farzi cafe,100
+817,2019-07-28,farzi cafe,44
+818,2019-08-04,farzi cafe,18
+819,2019-08-11,farzi cafe,55
+820,2019-08-18,farzi cafe,44
+821,2019-08-25,farzi cafe,56
+822,2019-09-01,farzi cafe,27
+823,2019-09-08,farzi cafe,83
+824,2019-09-15,farzi cafe,30
+825,2019-09-22,farzi cafe,34
+826,2019-09-29,farzi cafe,46
+827,2019-10-06,farzi cafe,34
+828,2019-10-13,farzi cafe,57
+829,2019-10-20,farzi cafe,51
+830,2019-10-27,farzi cafe,85
+831,2019-11-03,farzi cafe,54
+832,2019-11-10,farzi cafe,66
+833,2019-11-17,farzi cafe,60
+834,2019-11-24,farzi cafe,37
+835,2019-12-01,farzi cafe,66
+836,2019-12-08,farzi cafe,50
+837,2019-12-15,farzi cafe,41
+838,2019-12-22,farzi cafe,50
+839,2019-12-29,farzi cafe,40
+840,2020-01-05,farzi cafe,58
+841,2020-01-12,farzi cafe,58
+842,2020-01-19,farzi cafe,65
+843,2020-01-26,farzi cafe,48
+844,2020-02-02,farzi cafe,32
+845,2020-02-09,farzi cafe,37
+846,2020-02-16,farzi cafe,53
+847,2020-02-23,farzi cafe,56
+848,2020-03-01,farzi cafe,26
+849,2020-03-08,farzi cafe,35
+850,2019-03-31,farzi cafe menu,0
+851,2019-04-07,farzi cafe menu,0
+852,2019-04-14,farzi cafe menu,0
+853,2019-04-21,farzi cafe menu,0
+854,2019-04-28,farzi cafe menu,48
+855,2019-05-05,farzi cafe menu,48
+856,2019-05-12,farzi cafe menu,50
+857,2019-05-19,farzi cafe menu,0
+858,2019-05-26,farzi cafe menu,48
+859,2019-06-02,farzi cafe menu,0
+860,2019-06-09,farzi cafe menu,0
+861,2019-06-16,farzi cafe menu,0
+862,2019-06-23,farzi cafe menu,0
+863,2019-06-30,farzi cafe menu,49
+864,2019-07-07,farzi cafe menu,0
+865,2019-07-14,farzi cafe menu,48
+866,2019-07-21,farzi cafe menu,49
+867,2019-07-28,farzi cafe menu,49
+868,2019-08-04,farzi cafe menu,0
+869,2019-08-11,farzi cafe menu,0
+870,2019-08-18,farzi cafe menu,49
+871,2019-08-25,farzi cafe menu,48
+872,2019-09-01,farzi cafe menu,0
+873,2019-09-08,farzi cafe menu,46
+874,2019-09-15,farzi cafe menu,47
+875,2019-09-22,farzi cafe menu,45
+876,2019-09-29,farzi cafe menu,45
+877,2019-10-06,farzi cafe menu,0
+878,2019-10-13,farzi cafe menu,67
+879,2019-10-20,farzi cafe menu,44
+880,2019-10-27,farzi cafe menu,45
+881,2019-11-03,farzi cafe menu,44
+882,2019-11-10,farzi cafe menu,44
+883,2019-11-17,farzi cafe menu,87
+884,2019-11-24,farzi cafe menu,42
+885,2019-12-01,farzi cafe menu,0
+886,2019-12-08,farzi cafe menu,44
+887,2019-12-15,farzi cafe menu,0
+888,2019-12-22,farzi cafe menu,100
+889,2019-12-29,farzi cafe menu,68
+890,2020-01-05,farzi cafe menu,42
+891,2020-01-12,farzi cafe menu,41
+892,2020-01-19,farzi cafe menu,43
+893,2020-01-26,farzi cafe menu,42
+894,2020-02-02,farzi cafe menu,43
+895,2020-02-09,farzi cafe menu,41
+896,2020-02-16,farzi cafe menu,83
+897,2020-02-23,farzi cafe menu,40
+898,2020-03-01,farzi cafe menu,41
+899,2020-03-08,farzi cafe menu,0
+900,2019-03-31,the ivy cafe richmond,0
+901,2019-04-07,the ivy cafe richmond,85
+902,2019-04-14,the ivy cafe richmond,67
+903,2019-04-21,the ivy cafe richmond,0
+904,2019-04-28,the ivy cafe richmond,0
+905,2019-05-05,the ivy cafe richmond,56
+906,2019-05-12,the ivy cafe richmond,85
+907,2019-05-19,the ivy cafe richmond,43
+908,2019-05-26,the ivy cafe richmond,82
+909,2019-06-02,the ivy cafe richmond,100
+910,2019-06-09,the ivy cafe richmond,41
+911,2019-06-16,the ivy cafe richmond,42
+912,2019-06-23,the ivy cafe richmond,42
+913,2019-06-30,the ivy cafe richmond,84
+914,2019-07-07,the ivy cafe richmond,0
+915,2019-07-14,the ivy cafe richmond,42
+916,2019-07-21,the ivy cafe richmond,86
+917,2019-07-28,the ivy cafe richmond,64
+918,2019-08-04,the ivy cafe richmond,0
+919,2019-08-11,the ivy cafe richmond,0
+920,2019-08-18,the ivy cafe richmond,0
+921,2019-08-25,the ivy cafe richmond,42
+922,2019-09-01,the ivy cafe richmond,61
+923,2019-09-08,the ivy cafe richmond,0
+924,2019-09-15,the ivy cafe richmond,41
+925,2019-09-22,the ivy cafe richmond,39
+926,2019-09-29,the ivy cafe richmond,39
+927,2019-10-06,the ivy cafe richmond,39
+928,2019-10-13,the ivy cafe richmond,39
+929,2019-10-20,the ivy cafe richmond,58
+930,2019-10-27,the ivy cafe richmond,39
+931,2019-11-03,the ivy cafe richmond,0
+932,2019-11-10,the ivy cafe richmond,38
+933,2019-11-17,the ivy cafe richmond,38
+934,2019-11-24,the ivy cafe richmond,36
+935,2019-12-01,the ivy cafe richmond,38
+936,2019-12-08,the ivy cafe richmond,0
+937,2019-12-15,the ivy cafe richmond,40
+938,2019-12-22,the ivy cafe richmond,43
+939,2019-12-29,the ivy cafe richmond,39
+940,2020-01-05,the ivy cafe richmond,36
+941,2020-01-12,the ivy cafe richmond,36
+942,2020-01-19,the ivy cafe richmond,0
+943,2020-01-26,the ivy cafe richmond,36
+944,2020-02-02,the ivy cafe richmond,0
+945,2020-02-09,the ivy cafe richmond,0
+946,2020-02-16,the ivy cafe richmond,36
+947,2020-02-23,the ivy cafe richmond,0
+948,2020-03-01,the ivy cafe richmond,0
+949,2020-03-08,the ivy cafe richmond,40
+950,2019-03-31,cafe helen,34
+951,2019-04-07,cafe helen,49
+952,2019-04-14,cafe helen,0
+953,2019-04-21,cafe helen,0
+954,2019-04-28,cafe helen,32
+955,2019-05-05,cafe helen,33
+956,2019-05-12,cafe helen,66
+957,2019-05-19,cafe helen,49
+958,2019-05-26,cafe helen,63
+959,2019-06-02,cafe helen,31
+960,2019-06-09,cafe helen,32
+961,2019-06-16,cafe helen,33
+962,2019-06-23,cafe helen,32
+963,2019-06-30,cafe helen,32
+964,2019-07-07,cafe helen,0
+965,2019-07-14,cafe helen,48
+966,2019-07-21,cafe helen,0
+967,2019-07-28,cafe helen,66
+968,2019-08-04,cafe helen,32
+969,2019-08-11,cafe helen,48
+970,2019-08-18,cafe helen,33
+971,2019-08-25,cafe helen,44
+972,2019-09-01,cafe helen,63
+973,2019-09-08,cafe helen,62
+974,2019-09-15,cafe helen,47
+975,2019-09-22,cafe helen,60
+976,2019-09-29,cafe helen,30
+977,2019-10-06,cafe helen,45
+978,2019-10-13,cafe helen,45
+979,2019-10-20,cafe helen,30
+980,2019-10-27,cafe helen,30
+981,2019-11-03,cafe helen,57
+982,2019-11-10,cafe helen,0
+983,2019-11-17,cafe helen,58
+984,2019-11-24,cafe helen,28
+985,2019-12-01,cafe helen,29
+986,2019-12-08,cafe helen,30
+987,2019-12-15,cafe helen,0
+988,2019-12-22,cafe helen,100
+989,2019-12-29,cafe helen,0
+990,2020-01-05,cafe helen,42
+991,2020-01-12,cafe helen,55
+992,2020-01-19,cafe helen,0
+993,2020-01-26,cafe helen,28
+994,2020-02-02,cafe helen,0
+995,2020-02-09,cafe helen,69
+996,2020-02-16,cafe helen,0
+997,2020-02-23,cafe helen,27
+998,2020-03-01,cafe helen,27
+999,2020-03-08,cafe helen,62
+1000,2019-03-31,cafe rouge portsmouth,0
+1001,2019-04-07,cafe rouge portsmouth,49
+1002,2019-04-14,cafe rouge portsmouth,0
+1003,2019-04-21,cafe rouge portsmouth,100
+1004,2019-04-28,cafe rouge portsmouth,0
+1005,2019-05-05,cafe rouge portsmouth,49
+1006,2019-05-12,cafe rouge portsmouth,50
+1007,2019-05-19,cafe rouge portsmouth,0
+1008,2019-05-26,cafe rouge portsmouth,0
+1009,2019-06-02,cafe rouge portsmouth,47
+1010,2019-06-09,cafe rouge portsmouth,95
+1011,2019-06-16,cafe rouge portsmouth,74
+1012,2019-06-23,cafe rouge portsmouth,98
+1013,2019-06-30,cafe rouge portsmouth,98
+1014,2019-07-07,cafe rouge portsmouth,0
+1015,2019-07-14,cafe rouge portsmouth,0
+1016,2019-07-21,cafe rouge portsmouth,50
+1017,2019-07-28,cafe rouge portsmouth,67
+1018,2019-08-04,cafe rouge portsmouth,49
+1019,2019-08-11,cafe rouge portsmouth,49
+1020,2019-08-18,cafe rouge portsmouth,75
+1021,2019-08-25,cafe rouge portsmouth,0
+1022,2019-09-01,cafe rouge portsmouth,71
+1023,2019-09-08,cafe rouge portsmouth,47
+1024,2019-09-15,cafe rouge portsmouth,0
+1025,2019-09-22,cafe rouge portsmouth,0
+1026,2019-09-29,cafe rouge portsmouth,45
+1027,2019-10-06,cafe rouge portsmouth,45
+1028,2019-10-13,cafe rouge portsmouth,45
+1029,2019-10-20,cafe rouge portsmouth,45
+1030,2019-10-27,cafe rouge portsmouth,45
+1031,2019-11-03,cafe rouge portsmouth,44
+1032,2019-11-10,cafe rouge portsmouth,66
+1033,2019-11-17,cafe rouge portsmouth,66
+1034,2019-11-24,cafe rouge portsmouth,0
+1035,2019-12-01,cafe rouge portsmouth,0
+1036,2019-12-08,cafe rouge portsmouth,45
+1037,2019-12-15,cafe rouge portsmouth,46
+1038,2019-12-22,cafe rouge portsmouth,50
+1039,2019-12-29,cafe rouge portsmouth,0
+1040,2020-01-05,cafe rouge portsmouth,43
+1041,2020-01-12,cafe rouge portsmouth,83
+1042,2020-01-19,cafe rouge portsmouth,0
+1043,2020-01-26,cafe rouge portsmouth,42
+1044,2020-02-02,cafe rouge portsmouth,43
+1045,2020-02-09,cafe rouge portsmouth,0
+1046,2020-02-16,cafe rouge portsmouth,42
+1047,2020-02-23,cafe rouge portsmouth,41
+1048,2020-03-01,cafe rouge portsmouth,41
+1049,2020-03-08,cafe rouge portsmouth,46
+1050,2019-03-31,windmill cafe,73
+1051,2019-04-07,windmill cafe,36
+1052,2019-04-14,windmill cafe,38
+1053,2019-04-21,windmill cafe,73
+1054,2019-04-28,windmill cafe,0
+1055,2019-05-05,windmill cafe,36
+1056,2019-05-12,windmill cafe,0
+1057,2019-05-19,windmill cafe,36
+1058,2019-05-26,windmill cafe,36
+1059,2019-06-02,windmill cafe,51
+1060,2019-06-09,windmill cafe,34
+1061,2019-06-16,windmill cafe,72
+1062,2019-06-23,windmill cafe,0
+1063,2019-06-30,windmill cafe,36
+1064,2019-07-07,windmill cafe,0
+1065,2019-07-14,windmill cafe,35
+1066,2019-07-21,windmill cafe,0
+1067,2019-07-28,windmill cafe,36
+1068,2019-08-04,windmill cafe,35
+1069,2019-08-11,windmill cafe,53
+1070,2019-08-18,windmill cafe,0
+1071,2019-08-25,windmill cafe,36
+1072,2019-09-01,windmill cafe,69
+1073,2019-09-08,windmill cafe,35
+1074,2019-09-15,windmill cafe,34
+1075,2019-09-22,windmill cafe,33
+1076,2019-09-29,windmill cafe,100
+1077,2019-10-06,windmill cafe,0
+1078,2019-10-13,windmill cafe,99
+1079,2019-10-20,windmill cafe,66
+1080,2019-10-27,windmill cafe,33
+1081,2019-11-03,windmill cafe,32
+1082,2019-11-10,windmill cafe,32
+1083,2019-11-17,windmill cafe,42
+1084,2019-11-24,windmill cafe,31
+1085,2019-12-01,windmill cafe,32
+1086,2019-12-08,windmill cafe,0
+1087,2019-12-15,windmill cafe,34
+1088,2019-12-22,windmill cafe,36
+1089,2019-12-29,windmill cafe,33
+1090,2020-01-05,windmill cafe,31
+1091,2020-01-12,windmill cafe,61
+1092,2020-01-19,windmill cafe,95
+1093,2020-01-26,windmill cafe,31
+1094,2020-02-02,windmill cafe,47
+1095,2020-02-09,windmill cafe,46
+1096,2020-02-16,windmill cafe,31
+1097,2020-02-23,windmill cafe,59
+1098,2020-03-01,windmill cafe,30
+1099,2020-03-08,windmill cafe,0
+1100,2019-03-31,ikea cafe menu,0
+1101,2019-04-07,ikea cafe menu,39
+1102,2019-04-14,ikea cafe menu,41
+1103,2019-04-21,ikea cafe menu,40
+1104,2019-04-28,ikea cafe menu,58
+1105,2019-05-05,ikea cafe menu,0
+1106,2019-05-12,ikea cafe menu,40
+1107,2019-05-19,ikea cafe menu,39
+1108,2019-05-26,ikea cafe menu,38
+1109,2019-06-02,ikea cafe menu,37
+1110,2019-06-09,ikea cafe menu,0
+1111,2019-06-16,ikea cafe menu,0
+1112,2019-06-23,ikea cafe menu,0
+1113,2019-06-30,ikea cafe menu,0
+1114,2019-07-07,ikea cafe menu,0
+1115,2019-07-14,ikea cafe menu,0
+1116,2019-07-21,ikea cafe menu,40
+1117,2019-07-28,ikea cafe menu,40
+1118,2019-08-04,ikea cafe menu,77
+1119,2019-08-11,ikea cafe menu,39
+1120,2019-08-18,ikea cafe menu,40
+1121,2019-08-25,ikea cafe menu,59
+1122,2019-09-01,ikea cafe menu,37
+1123,2019-09-08,ikea cafe menu,38
+1124,2019-09-15,ikea cafe menu,38
+1125,2019-09-22,ikea cafe menu,36
+1126,2019-09-29,ikea cafe menu,54
+1127,2019-10-06,ikea cafe menu,36
+1128,2019-10-13,ikea cafe menu,36
+1129,2019-10-20,ikea cafe menu,0
+1130,2019-10-27,ikea cafe menu,36
+1131,2019-11-03,ikea cafe menu,34
+1132,2019-11-10,ikea cafe menu,35
+1133,2019-11-17,ikea cafe menu,35
+1134,2019-11-24,ikea cafe menu,33
+1135,2019-12-01,ikea cafe menu,35
+1136,2019-12-08,ikea cafe menu,71
+1137,2019-12-15,ikea cafe menu,37
+1138,2019-12-22,ikea cafe menu,100
+1139,2019-12-29,ikea cafe menu,36
+1140,2020-01-05,ikea cafe menu,33
+1141,2020-01-12,ikea cafe menu,33
+1142,2020-01-19,ikea cafe menu,51
+1143,2020-01-26,ikea cafe menu,34
+1144,2020-02-02,ikea cafe menu,34
+1145,2020-02-09,ikea cafe menu,83
+1146,2020-02-16,ikea cafe menu,67
+1147,2020-02-23,ikea cafe menu,64
+1148,2020-03-01,ikea cafe menu,33
+1149,2020-03-08,ikea cafe menu,37
+1150,2019-03-31,folk cafe,41
+1151,2019-04-07,folk cafe,60
+1152,2019-04-14,folk cafe,64
+1153,2019-04-21,folk cafe,41
+1154,2019-04-28,folk cafe,79
+1155,2019-05-05,folk cafe,0
+1156,2019-05-12,folk cafe,61
+1157,2019-05-19,folk cafe,0
+1158,2019-05-26,folk cafe,0
+1159,2019-06-02,folk cafe,0
+1160,2019-06-09,folk cafe,39
+1161,2019-06-16,folk cafe,40
+1162,2019-06-23,folk cafe,40
+1163,2019-06-30,folk cafe,40
+1164,2019-07-07,folk cafe,0
+1165,2019-07-14,folk cafe,39
+1166,2019-07-21,folk cafe,81
+1167,2019-07-28,folk cafe,40
+1168,2019-08-04,folk cafe,92
+1169,2019-08-11,folk cafe,79
+1170,2019-08-18,folk cafe,41
+1171,2019-08-25,folk cafe,41
+1172,2019-09-01,folk cafe,77
+1173,2019-09-08,folk cafe,38
+1174,2019-09-15,folk cafe,39
+1175,2019-09-22,folk cafe,37
+1176,2019-09-29,folk cafe,0
+1177,2019-10-06,folk cafe,55
+1178,2019-10-13,folk cafe,55
+1179,2019-10-20,folk cafe,37
+1180,2019-10-27,folk cafe,37
+1181,2019-11-03,folk cafe,53
+1182,2019-11-10,folk cafe,36
+1183,2019-11-17,folk cafe,71
+1184,2019-11-24,folk cafe,0
+1185,2019-12-01,folk cafe,0
+1186,2019-12-08,folk cafe,36
+1187,2019-12-15,folk cafe,38
+1188,2019-12-22,folk cafe,82
+1189,2019-12-29,folk cafe,37
+1190,2020-01-05,folk cafe,35
+1191,2020-01-12,folk cafe,68
+1192,2020-01-19,folk cafe,0
+1193,2020-01-26,folk cafe,35
+1194,2020-02-02,folk cafe,70
+1195,2020-02-09,folk cafe,0
+1196,2020-02-16,folk cafe,52
+1197,2020-02-23,folk cafe,100
+1198,2020-03-01,folk cafe,34
+1199,2020-03-08,folk cafe,38
+1200,2019-03-31,cafe saffron,51
+1201,2019-04-07,cafe saffron,34
+1202,2019-04-14,cafe saffron,53
+1203,2019-04-21,cafe saffron,34
+1204,2019-04-28,cafe saffron,44
+1205,2019-05-05,cafe saffron,50
+1206,2019-05-12,cafe saffron,68
+1207,2019-05-19,cafe saffron,56
+1208,2019-05-26,cafe saffron,66
+1209,2019-06-02,cafe saffron,32
+1210,2019-06-09,cafe saffron,97
+1211,2019-06-16,cafe saffron,100
+1212,2019-06-23,cafe saffron,33
+1213,2019-06-30,cafe saffron,0
+1214,2019-07-07,cafe saffron,99
+1215,2019-07-14,cafe saffron,33
+1216,2019-07-21,cafe saffron,51
+1217,2019-07-28,cafe saffron,51
+1218,2019-08-04,cafe saffron,66
+1219,2019-08-11,cafe saffron,32
+1220,2019-08-18,cafe saffron,34
+1221,2019-08-25,cafe saffron,33
+1222,2019-09-01,cafe saffron,48
+1223,2019-09-08,cafe saffron,32
+1224,2019-09-15,cafe saffron,54
+1225,2019-09-22,cafe saffron,31
+1226,2019-09-29,cafe saffron,46
+1227,2019-10-06,cafe saffron,41
+1228,2019-10-13,cafe saffron,31
+1229,2019-10-20,cafe saffron,0
+1230,2019-10-27,cafe saffron,61
+1231,2019-11-03,cafe saffron,44
+1232,2019-11-10,cafe saffron,75
+1233,2019-11-17,cafe saffron,30
+1234,2019-11-24,cafe saffron,38
+1235,2019-12-01,cafe saffron,59
+1236,2019-12-08,cafe saffron,60
+1237,2019-12-15,cafe saffron,42
+1238,2019-12-22,cafe saffron,86
+1239,2019-12-29,cafe saffron,62
+1240,2020-01-05,cafe saffron,29
+1241,2020-01-12,cafe saffron,43
+1242,2020-01-19,cafe saffron,29
+1243,2020-01-26,cafe saffron,67
+1244,2020-02-02,cafe saffron,44
+1245,2020-02-09,cafe saffron,43
+1246,2020-02-16,cafe saffron,85
+1247,2020-02-23,cafe saffron,28
+1248,2020-03-01,cafe saffron,70
+1249,2020-03-08,cafe saffron,63
